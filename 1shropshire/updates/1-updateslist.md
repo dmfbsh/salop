@@ -1,5 +1,10 @@
 ---
 ---
+## 29 Jan 2023
+Added the following items:
+
+- Worfield church
+
 ## 08 Jan 2023
 
 Updated Little Wenlock church.

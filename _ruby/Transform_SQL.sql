@@ -13,7 +13,7 @@ UPDATE exp_churches SET subimages_id = (SELECT ID FROM Photo p WHERE p.Church = 
 UPDATE exp_churches SET note_id = (SELECT id FROM notes n WHERE n.title = exp_churches.name);
 UPDATE exp_churches SET status_no_inside_photo = 0;
 UPDATE exp_churches SET status_no_inside_photo = 1 WHERE note_id IN (SELECT note_id FROM note_tags WHERE tag_id = (SELECT id FROM tags WHERE title = 'revisit status: seen inside but no photos'));
-UPDATE exp_churches SET category = (SELECT Category1 FROM Photo p WHERE p.Church = exp_churches.name);
+UPDATE exp_churches SET category = (SELECT 'Church' FROM Photo p WHERE p.Church = exp_churches.name);
 UPDATE exp_churches SET status_visited = 0;
 UPDATE exp_churches SET status_visited = 1 WHERE note_id IN (SELECT note_id FROM note_tags WHERE tag_id = (SELECT id FROM tags WHERE title = 'status: visited'));
 UPDATE exp_churches SET status_not_been_inside = 0;

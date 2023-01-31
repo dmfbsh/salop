@@ -123,7 +123,7 @@ txt = txt + "UPDATE exp_churches SET subimages_id = (SELECT ID FROM Photo p WHER
 txt = txt + "UPDATE exp_churches SET note_id = (SELECT id FROM notes n WHERE n.title = exp_churches.name);\n"
 txt = txt + "UPDATE exp_churches SET status_no_inside_photo = 0;\n"
 txt = txt + "UPDATE exp_churches SET status_no_inside_photo = 1 WHERE note_id IN (SELECT note_id FROM note_tags WHERE tag_id = (SELECT id FROM tags WHERE title = 'revisit status: seen inside but no photos'));\n"
-txt = txt + "UPDATE exp_churches SET category = (SELECT Category1 FROM Photo p WHERE p.Church = exp_churches.name);\n"
+txt = txt + "UPDATE exp_churches SET category = (SELECT 'Church' FROM Photo p WHERE p.Church = exp_churches.name);\n"
 txt = txt + "UPDATE exp_churches SET status_visited = 0;\n"
 txt = txt + "UPDATE exp_churches SET status_visited = 1 WHERE note_id IN (SELECT note_id FROM note_tags WHERE tag_id = (SELECT id FROM tags WHERE title = 'status: visited'));\n"
 txt = txt + "UPDATE exp_churches SET status_not_been_inside = 0;\n"
@@ -164,7 +164,7 @@ FileUtils.cp _BaseFolder + '\1shropshire\updates\_site\1-updateslist.html', _Bas
 
 system('jekyll build --verbose --config _config.yml', chdir: _BaseFolder)
 
-FileUtils.cp _BaseFolder + '\_data\Shropshire_Notebook-Churches_Status.yml', _BaseFolder + '\..\churches\_data', :verbose => true
+FileUtils.cp _BaseFolder + '\_data\Shropshire_Notebook-Churches_Status.yml', 'C:\Users\David\Documents\Dropbox\Notebooks\Notebook\3. Churches\GitHub\_data', :verbose => true
 
 puts 'Press any key to exit.'
 STDIN.getch

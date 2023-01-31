@@ -1,13 +1,13 @@
-AllVisited: 189
-AllNotVisited: 128
-AllInside: 166
-AllInsidePhoto: 141
+AllVisited: 190
+AllNotVisited: 127
+AllInside: 167
+AllInsidePhoto: 142
 AllNotInside: 42
-AllPlanned: 40
+AllPlanned: 39
 AllNotYet: 88
-Col1Num: 166
+Col1Num: 167
 Col2Num: 23
-Col3Num: 24
+Col3Num: 23
 Col4Num: 16
 Col5Num: 88
 Churches:
@@ -128,7 +128,7 @@ Churches:
     Col5: Edgton, St Michael (Hereford)
   - Col1: Broseley, All Saints (Hereford)
     Col2: 
-    Col3: Worfield, St Peter (Hereford)
+    Col3: 
     Col4: 
     Col5: Farlow, St Giles (Hereford)
   - Col1: Buildwas, None (Lichfield)
@@ -821,6 +821,11 @@ Churches:
     Col3: 
     Col4: 
     Col5: 
+  - Col1: Worfield, St Peter (Hereford)
+    Col2: 
+    Col3: 
+    Col4: 
+    Col5: 
   - Col1: Worthen, All Saints (Hereford)
     Col2: 
     Col3: 
@@ -843,6 +848,6 @@ Churches:
     Col5: 
 RevisitCount2: 6
 RevisitCount3: 19
-RevisitCount4: 160
+RevisitCount4: 161
 RevisitCount5: 23
 RevisitCount6: 25
