@@ -1,3 +1,22 @@
+# Name: View from Greyfriars Bridge
+
+TBD
+![](../1shropshire/assets/images/places/2023-02-05_10_49_20_DSC_7533.jpg)
+
+# Name: The Bear Steps
+
+Bear Steps (1358-1359 AD) itself is named for The Bear Inn Pub which sat on the corner of Fish Street and Grope Lane.
+![](../1shropshire/assets/images/places/2023-02-05_10_19_09_DSC_7508_HDR.jpg)
+
+# Name: The Bellstone
+
+A young Charles Darwin’s first introduction to geology was a granite boulder, called the Bellstone, situated in Morris Hall courtyard in Shrewsbury town centre.
+
+As a child, Darwin was told this sort of stone was only found much further north in Cumbria or Scotland and there was no explanation for how it ended up in Shropshire. It was only when he studied geology at Edinburgh that Darwin learned that during the last ice age moving glaciers had transported massive rocks across the country.
+
+Shropshire has rocks from more periods of geology than anywhere else in the world, and it was The Bellstone that inspired a young Charles Darwin. The glacial meres and scars that shaped the Shropshire landscape and deposits they left (and the Bellstone in particular) convinced Darwin that the world is much older than the popular thinking at the time.
+![](../1shropshire/assets/images/places/2023-02-05_10_04_39_DSC_7498.jpg)
+
 # Name: Abbey Church
 
 The Abbey Church

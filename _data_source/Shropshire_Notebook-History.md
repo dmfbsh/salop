@@ -506,6 +506,20 @@ The Battle of Shrewsbury was fought on 21st July 1403, between an army led by th
 The picture is of the statue of the king on the church at Battlefield.
 ![](../1shropshire/assets/images/history/2020-06-07_14_54_57_DSC_7247.jpg)
 
+# Name: The King's Head, Shrewsbury
+- Date: 1404 AD
+
+Originally this building was private dwelling. In 1987 an old brick chimney breast was removed which revealed a wall painting which measured about 6ft square and which is incredibly well preserved. The painting dates to around the turn of the 14th and 15th Centuries and depicts The Last Supper.
+![](../1shropshire/assets/images/history/2023-02-05_09_55_52_DSC_7493.jpg)
+
+# Name: The Golden Cross, Shrewsbury
+- Date: 1428 AD
+
+The Golden Cross is the oldest pub in Shrewsbury that has operated continuously as a pub. There are references to members of the Hanseatic League meeting here to discuss trading agreements as early as the 1400s. The pub is also thought to have been used a meeting place for Royalist sympathisers during the Civil War.
+
+The name Golden Cross was recorded in 1780, it was also known as the Sextry (Sacristy) because the church plate and vestments for St Chads were kept here. The pub was probably originally owned by the church.
+![](../1shropshire/assets/images/history/2023-02-05_10_29_26_DSC_7529.jpg)
+
 # Name: The Abbot's House, Shrewsbury
 - Date: 1459 AD
 
@@ -877,6 +891,12 @@ William Hazlitt is considered to be one of the greatest critics and essayists in
 
 William Hazlitt lived at this house from 1786-1787 (during his childhood).
 ![](../1shropshire/assets/images/history/2019-03-02_13_52_17_DSC_3459.jpg)
+
+# Name: Laura's Tower, Shrewsbury
+- Date: 1790 AD
+
+The tower was built by Thomas Telford for Laura, daughter of Sir William Pulteney, as a 21st birthday gift. At the time Pulteney was MP for Shrewsbury and owner of the castle, which Telford was renovating. It is built of local Keele sandstone and is located where the Norman keep would have been located.
+![](../1shropshire/assets/images/history/2023-02-05_09_34_23_DSC_7484.jpg)
 
 # Name: Shrewsbury Prison
 - Date: 1793 AD

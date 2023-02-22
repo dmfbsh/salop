@@ -1,5 +1,19 @@
 ---
 ---
+## 19 Feb 2023
+Added the following items:
+
+- St Michaels, Shrewsbury church
+- The Bellstone, Shrewsbury
+- Laura's Tower, Shrewsbury
+- The King's Head, Shrewsbury
+- The Golden Cross, Shrewsbury
+- The Bear Steps, Shrewsbury
+- View from Greyfriars Bridge, Shrewsbury
+- Shipton flowers
+
+Updated Shipton church.
+
 ## 29 Jan 2023
 Added the following items:
 
