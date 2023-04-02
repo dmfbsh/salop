@@ -402,6 +402,12 @@ Originally known as Moreton Toret Castle, the stone structure was constructed to
 The castle saw action in the English Civil War when it is known to have changed hands at least four times.
 ![](../1shropshire/assets/images/history/2018-09-29_15_27_31_DSC_2907.jpg)
 
+# Header: 1215 AD
+
+## Magna Carta
+
+Magna Carta was issued in June 1215 and was the first document to put into writing the principle that the king and his government was not above the law.  It sought to prevent the king from exploiting his power, and placed limits of royal authority by establishing law as a power in itself.
+
 # Name: Alberbury Castle
 - Date: 13th Century AD
 
@@ -431,6 +437,12 @@ Ashfield Hall is an historic house, consisting of two distinct portions. The lef
 
 The site was originally the site of St John's hospital, founded in the 13th Century for 'lost and naked beggars'.  The building was occupied in the 15th Century as the private house of the Ashfield family.  Later it was called the Blue Bridge Inn from the bridge over a stream that ran in front.  Charles I is believed to have stayed here in 1642 on his way from Shrewsbury to Oxford.
 ![](../1shropshire/assets/images/history/2021-06-05_15_22_55_DSC_9570.jpg)
+
+# Name: St Mary's Water Gate, Shrewsbury
+- Date: 13th Century
+
+St Mary’s Water Gate was built in the 13th Century to provide access from the river to the town. Legend has it that a traitor opened the gate to a force of Parliamentarian troops in February 1645, allowing them to take control of the town and so it is also known as Traitor's Gate.
+![](../1shropshire/assets/images/history/2023-02-26_08_13_12_DSC_7785.jpg)
 
 # Name: Hopton Castle
 - Date: 1260s AD
@@ -520,6 +532,12 @@ The Golden Cross is the oldest pub in Shrewsbury that has operated continuously 
 The name Golden Cross was recorded in 1780, it was also known as the Sextry (Sacristy) because the church plate and vestments for St Chads were kept here. The pub was probably originally owned by the church.
 ![](../1shropshire/assets/images/history/2023-02-05_10_29_26_DSC_7529.jpg)
 
+# Header: 1455-85 AD
+
+## Wars of the Roses
+
+A series of dynastic civil wars whose violence and civil strife preceded the strong government of the Tudors. Fought between the houses of Lancaster and York for the English throne, the wars were named many years afterward from the supposed badges of the contending parties: the white rose of York and the red rose of Lancaster.
+
 # Name: The Abbot's House, Shrewsbury
 - Date: 1459 AD
 
@@ -568,6 +586,8 @@ During the 16th Century the turbulence in the Marches was gradually suppressed a
 
 ## The Church of England is Established
 
+n 1534 Parliament passed the Act of Supremacy which defined the right of Henry VIII to be supreme head on earth of the Church of England, thereby severing ecclesiastical links with Rome.
+
 # Header: 1536 AD to 1541 AD
 
 ## The Dissolution of the Monasteries
@@ -611,6 +631,12 @@ The present house was built for Adam Ottley, a Shrewsbury wool merchant, and pos
 
 The Ireland family were powerful wool merchants, some serving as Aldermen for Shrewsbury.  The Ireland mansion has been described as the most ambitious surviving 16th Century timber building in Shrewsbury.
 ![](../1shropshire/assets/images/history/2022-10-16_09_56_19_DSC_5031.jpg)
+
+# Name: Draper's Hall, Shrewsbury
+- Date: 1576 AD
+
+The first hall, or meeting place, for the Drapers’ Guild is unknown, but in 1485 a new guildhall was built close to St Mary's Church. In 1576, the heyday of the Drapers' prosperity, the present hall was built on the same site in the old commercial centre of the town (a prime site as it is on the level summit of the hill, within the loop of the River Severn and midway between the English Bridge and the Welsh Bridge). The three storey block was added in 1580.
+![](../1shropshire/assets/images/history/2023-02-26_09_40_54_DSC_7830_HDR.jpg)
 
 # Name: Benthall Hall
 - Date: 1580 AD
@@ -675,6 +701,13 @@ The facade is decorated with Ostrich feathers which represented the Royalist sup
 # Header: 1642 AD to 1651 AD 
 
 ## The English Civil War
+
+In 1642, relations between the King (Charles I) and Parliament were so strained that civil war was the only way to resolved the differences.  The king raised his standard at Nottingham on August 22nd.  On the 20th September he reached Wellington, where before his whole Army he
+made the well-known proclamation  to his people that he would preserve the Protestant Religion, the laws of England and the liberty of Parliament, and on the following day he fixed his headquarters at Shrewsbury.
+
+On the 28th September, the king informed the gentlemen of the county that he had sent for a mint, the workers of which arrived a few days afterwards.  The mint establishment which he had commanded to come was that of Aberystwith, which had been established there in 1637 by letters patent to Thomas Bushell, and on the 21st October the first coins were issued.  The period during which the mint was active was only three months, at the end of December the King moved his headquarters to Oxford, and the mint followed him, reaching there on the 3rd January.
+
+![](../1shropshire/assets/images/history/Shrewsbury_mint.jpg)
 
 The predominant opinion in the county of Shropshire was for the king.  Most towns in Shropshire were royalist; the main parliamentary centre was Wem.
 
@@ -743,6 +776,12 @@ The house was built bu Sir Thomas Wolryche (3rd Baronet).
 
 Now a museum, little is actually known of the origin and history of the building.  It is likely to have originally been a single room dwelling some time in the twelfth century.  Architectural features reveal that by the 1600s, the owners were very affluent.  The 'crutches' refer to the posts supporting a 17th century upstairs extension, giving more space without encroaching on the cobbled street which still passes underneath.
 ![](../1shropshire/assets/images/houses/2020-08-08_15_16_47_DSC_7992.jpg)
+
+# Header: 1707 AD
+
+## Act of Union
+
+The Acts of Union, passed by the English and Scottish Parliaments in 1707, led to the creation of the United Kingdom of Great Britain on 1st May of that year.  The UK Parliament met for the first time in October 1707.
 
 # Name: Old Furnace, Coalbrookdale
 - Date: 1709 AD
@@ -825,6 +864,12 @@ In common with other towns, Bishop's Castle had its own Guildhall, which in 1615
 
 There is a record of a bridge at Atcham as early as the 13th Century.  In 1550 Sir Rowland Hill funded the building of a stone bridge with 18 arches, this bridge was replaced by the present bridge which dates from 1769-71 (but may have been completed as late as 1776).  The bridge was designed by John Gwynn - Gwynn was born in Shrewsbury and was one of the founder members of the Royal Academy in 1768, his work includes Magdalen bridge in Oxford as well as several other bridges in Shropshire (one of which is the English bridge in Shrewsbury). 
 ![](../1shropshire/assets/images/history/2020-03-01_13_35_37_DSC_6578.jpg)
+
+# Name: Temple, Millichope Park
+- Date: 1770 AD
+
+The memorial temple was designed by George Stewart (also responsible for Attingham Park and St Chad’s in Shrewsbury) and was built as a cenotaph for the More family.
+![](../1shropshire/assets/images/history/2023-02-25_15_58_32_DSC_7767.jpg)
 
 # Name: Attingham Park
 - Date: 1772 AD
@@ -1029,6 +1074,12 @@ Three blast furnaces built by the Madeley Wood Company in 1832, 1840 and 1840 - 
 
 The Lilleshall monument was erected in 1833 and commemorates George Leveson-Gower (1st Duke of Sutherland), who died in that year. The obelisk is 70ft high. The construction was originally funded through £933.15s collected from the Duke's tenants, in recognition that he ‘went down to his grave with the blessings of his tenants on his head’. Originally there were two lions and two griffins at each corner, however these were damaged after a violent thunderstorm and were removed.
 ![](../1shropshire/assets/images/history/2021-08-29_06_43_43_DSC_0116.jpg)
+
+# Name: Millichope Park
+- Date: 1835 AD - 1840 AD
+
+The house was built in the Greek Revival style between 1835 and 1840 by architect Edward Haycock of Shrewsbury for Revd. Norgrave Pemberton, Rector of Church Stretton. The manor of Lower Millichope was bought by the More family in 1544 and was later passed to the Pemberton family.
+![](../1shropshire/assets/images/history/2023-02-25_16_05_08_DSC_7774.jpg)
 
 # Header: 1837 AD
 

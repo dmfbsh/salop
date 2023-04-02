@@ -488,6 +488,13 @@
   Thumbnail: 2021-06-05_15_22_55_DSC_9570.jpg
 
 - Type: Item
+  Name: St Mary's Water Gate, Shrewsbury
+  Date: 13th Century
+  Description: |
+    St Mary’s Water Gate was built in the 13th Century to provide access from the river to the town. Legend has it that a traitor opened the gate to a force of Parliamentarian troops in February 1645, allowing them to take control of the town and so it is also known as Traitor's Gate.
+  Thumbnail: 2023-02-26_08_13_12_DSC_7785.jpg
+
+- Type: Item
   Name: Hopton Castle
   Date: 1260s AD
   Description: |
@@ -694,6 +701,13 @@
   Thumbnail: 2022-10-16_09_56_19_DSC_5031.jpg
 
 - Type: Item
+  Name: Draper's Hall, Shrewsbury
+  Date: 1576 AD
+  Description: |
+    The first hall, or meeting place, for the Drapers’ Guild is unknown, but in 1485 a new guildhall was built close to St Mary's Church. In 1576, the heyday of the Drapers' prosperity, the present hall was built on the same site in the old commercial centre of the town (a prime site as it is on the level summit of the hill, within the loop of the River Severn and midway between the English Bridge and the Welsh Bridge). The three storey block was added in 1580.
+  Thumbnail: 2023-02-26_09_40_54_DSC_7830_HDR.jpg
+
+- Type: Item
   Name: Benthall Hall
   Date: 1580 AD
   Description: |
@@ -767,6 +781,13 @@
   Date: 1642 AD to 1651 AD 
   Description: |
     ## The English Civil War
+
+    In 1642, relations between the King (Charles I) and Parliament were so strained that civil war was the only way to resolved the differences.  The king raised his standard at Nottingham on August 22nd.  On the 20th September he reached Wellington, where before his whole Army he
+    made the well-known proclamation  to his people that he would preserve the Protestant Religion, the laws of England and the liberty of Parliament, and on the following day he fixed his headquarters at Shrewsbury.
+
+    On the 28th September, the king informed the gentlemen of the county that he had sent for a mint, the workers of which arrived a few days afterwards.  The mint establishment which he had commanded to come was that of Aberystwith, which had been established there in 1637 by letters patent to Thomas Bushell, and on the 21st October the first coins were issued.  The period during which the mint was active was only three months, at the end of December the King moved his headquarters to Oxford, and the mint followed him, reaching there on the 3rd January.
+
+  Thumbnail: Shrewsbury_mint.jpg
 
     The predominant opinion in the county of Shropshire was for the king.  Most towns in Shropshire were royalist; the main parliamentary centre was Wem.
 
@@ -842,6 +863,13 @@
   Description: |
     Now a museum, little is actually known of the origin and history of the building.  It is likely to have originally been a single room dwelling some time in the twelfth century.  Architectural features reveal that by the 1600s, the owners were very affluent.  The 'crutches' refer to the posts supporting a 17th century upstairs extension, giving more space without encroaching on the cobbled street which still passes underneath.
   Thumbnail: 2020-08-08_15_16_47_DSC_7992.jpg
+
+- Type: Header
+  Date: 1707 AD
+  Description: |
+    ## Act of Union
+
+    The Acts of Union, passed by the English and Scottish Parliaments in 1707, led to the creation of the United Kingdom of Great Britain on 1 May of that year. The UK Parliament met for the first time in October 1707.
 
 - Type: Item
   Name: Old Furnace, Coalbrookdale
@@ -938,6 +966,13 @@
   Description: |
     There is a record of a bridge at Atcham as early as the 13th Century.  In 1550 Sir Rowland Hill funded the building of a stone bridge with 18 arches, this bridge was replaced by the present bridge which dates from 1769-71 (but may have been completed as late as 1776).  The bridge was designed by John Gwynn - Gwynn was born in Shrewsbury and was one of the founder members of the Royal Academy in 1768, his work includes Magdalen bridge in Oxford as well as several other bridges in Shropshire (one of which is the English bridge in Shrewsbury). 
   Thumbnail: 2020-03-01_13_35_37_DSC_6578.jpg
+
+- Type: Item
+  Name: Temple, Millichope Park
+  Date: 1770 AD
+  Description: |
+    The memorial temple was designed by George Stewart (also responsible for Attingham Park and St Chad’s in Shrewsbury) and was built as a cenotaph for the More family.
+  Thumbnail: 2023-02-25_15_58_32_DSC_7767.jpg
 
 - Type: Item
   Name: Attingham Park
@@ -1169,6 +1204,13 @@
   Description: |
     The Lilleshall monument was erected in 1833 and commemorates George Leveson-Gower (1st Duke of Sutherland), who died in that year. The obelisk is 70ft high. The construction was originally funded through £933.15s collected from the Duke's tenants, in recognition that he ‘went down to his grave with the blessings of his tenants on his head’. Originally there were two lions and two griffins at each corner, however these were damaged after a violent thunderstorm and were removed.
   Thumbnail: 2021-08-29_06_43_43_DSC_0116.jpg
+
+- Type: Item
+  Name: Millichope Park
+  Date: 1835 AD - 1840 AD
+  Description: |
+    The house was built in the Greek Revival style between 1835 and 1840 by architect Edward Haycock of Shrewsbury for Revd. Norgrave Pemberton, Rector of Church Stretton. The manor of Lower Millichope was bought by the More family in 1544 and was later passed to the Pemberton family.
+  Thumbnail: 2023-02-25_16_05_08_DSC_7774.jpg
 
 - Type: Header
   Date: 1837 AD

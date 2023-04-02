@@ -1,3 +1,23 @@
+# Name: The Bear Steps
+
+TBD
+![](../1shropshire/assets/images/places/2023-02-12_08_25_37_DSC_7604_HDR.jpg)
+
+# Name: Wyle Cop
+
+TBD
+![](../1shropshire/assets/images/places/2023-02-12_08_15_12_DSC_7582.jpg)
+
+# Name: Barracks Passage
+
+TBD
+![](../1shropshire/assets/images/places/2023-02-12_10_09_58_DSC_7709_HDR.jpg)
+
+# Name: Golden Cross Passage
+
+TBD
+![](../1shropshire/assets/images/places/2023-02-12_10_01_23_DSC_7688_HDR.jpg)
+
 # Name: View from Greyfriars Bridge
 
 TBD
@@ -112,7 +132,7 @@ Originally erected on Kingsland in 1679 by the Shoemakers; Guild, and removed to
 # Name: Wyle Cop
 
 65-69 Wyle Cop - late 15th Century, probably originally a dwelling.  Wyle Cop - Wyle is medieval English for hill, and Cop means ‘top of’.
-![](../1shropshire/assets/images/places/2022-10-16_08_25_40_DSC_4861.jpg)
+![](../1shropshire/assets/images/places/2022-10-16_08_25_40_DSC_4860_HDR.jpg)
 
 # Name: Wyle Cop
 

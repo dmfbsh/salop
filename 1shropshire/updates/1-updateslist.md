@@ -1,5 +1,17 @@
 ---
 ---
+## 08 Mar 2023
+Added the following items:
+
+- Millichope Park - Temple
+- Millichope Park - House
+- Shrewsbury - St Mary's Water Gate
+- Shrewsbury - Draper's Hall
+- Shrewsbury - Golden Cross Passage
+- Shrewsbury - Barracks Passage
+- Shrewsbury - Wyle Cop
+- Shrewsbury - Bear Steps
+
 ## 19 Feb 2023
 Added the following items:
 
