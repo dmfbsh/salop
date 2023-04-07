@@ -3,6 +3,22 @@
 ## 07 Apr 2023
 Added the following items:
 
+- Shrewsbury, Wyle Cop x 2
+- Shrewsbury, Fish Street
+- Shrewsbury Cakes
+- Shrewsbury - unknown passage x 2
+- Shrewsbury, Church Street
+- Shrewsbury, Milk Street x 2
+- Shrewsbury, St Alkmonds Place
+- Shrewsbury, The Square x 2
+- Shrewsbury, Claremont Hill x 2
+- Shrewsbury, general view x 3
+- Shrewsbury, Porthill Bridge
+- Shrewsbury, Boundary Stone
+
+## 07 Apr 2023
+Added the following items:
+
 - Middle Forge, Coalbrookdale
 - Rose Cottage, Coalbrookdale
 - Severn Gorge Countryside Trust

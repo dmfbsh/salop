@@ -1417,6 +1417,12 @@ In 1976 Shawbury also became the home of the basic and advanced helicopter train
 The old coracle shed dates from 1920s, it is the last surviving coracle maker’s shed in England.
 ![](../1shropshire/assets/images/history/2022-06-26_09_24_12_DSC_2842.jpg)
 
+# Name: Porthill Bridge, Shrewsbury
+- Date: 18th January 1922 AD
+
+Until the bridge was opened, a ferry operated across the river.  £2,000 of the bridge's total £2,600 cost was paid for by the Shropshire Horticultural Society.  The bridge was made by David Rowell & Co.
+![](../1shropshire/assets/images/history/2023-03-12_08_37_28_DSC_7933.jpg)
+
 # Name: Memorial Bridge, Coalport
 - Date: 1922 AD
 

@@ -1,3 +1,93 @@
+# Name: General View
+
+TBD
+![](../1shropshire/assets/images/places/2023-03-12_08_39_03_DSC_7934_BW.jpg)
+
+# Name: Boundary Stone
+
+The stone that marks the boundary of the parishes of Holy Cross & St Giles, Abbey Foregate and St Julian, Shrewsbury, it formerly stood on the old English or stone bridge demolished in 1774.
+![](../1shropshire/assets/images/places/2023-03-12_07_44_04_DSC_7873.jpg)
+
+# Name: General View
+
+TBD
+![](../1shropshire/assets/images/places/2023-03-12_08_26_57_DSC_7929.jpg)
+
+# Name: General View
+
+TBD
+![](../1shropshire/assets/images/places/2023-03-12_08_18_55_DSC_7922.jpg)
+
+# Name: Unknown Passage
+
+TBD
+![](../1shropshire/assets/images/places/2023-03-12_08_04_54_DSC_7898_HDR.jpg)
+
+# Name: Claremont Hill
+
+TBD
+![](../1shropshire/assets/images/places/2023-03-12_09_00_40_DSC_7938_HDR.jpg)
+
+# Name: Claremont Hill
+
+The Old Parsonage or Manse This house, built in 1689 for a Shrewsbury Draper's family stands on the site of one clearly shown on the Burleigh map of 1575, which it probably incorporates. When the new king George I gave his protection to the Unitarian Church in the High Street after its destruction in 1715, this house also became the Minister's manse until thr 1920s as well as the church's school to provide non-Trinitarian education. Charles Darwin along with his sister were pupils here in 1827 under the Reverend Augustus Chase before hew went on to the Schools, Shrewsbiry (now the library). The poet ST Coleridge, though staying with Hazlitt in Wem, was associated with the house when a candidate for the ministry here, only to be granted a pension to pursue his radical policies and philosphy by thethen patron Josiah Wedgewood, Darwin's grandfather. Religious mobs damaged the house several times during the 1700s. It received the award of the Shrewsbury Civic Society for its restiration in the early 1950s.
+![](../1shropshire/assets/images/places/2023-03-12_09_02_41_DSC_7944_HDR.jpg)
+
+# Name: The Square
+
+TBD
+![](../1shropshire/assets/images/places/2023-03-12_09_16_29_DSC_7965_HDR.jpg)
+
+# Name: The Square
+
+TBD
+![](../1shropshire/assets/images/places/2023-03-12_09_19_20_DSC_7971_HDR.jpg)
+
+# Name: St Alkmonds Place
+
+TBD
+![](../1shropshire/assets/images/places/2023-03-12_09_35_25_DSC_7989_HDR.jpg)
+
+# Name: Milk Street
+
+TBD
+![](../1shropshire/assets/images/places/2023-03-12_08_01_53_DSC_7889_HDR.jpg)
+
+# Name: Milk Street
+
+TBD
+![](../1shropshire/assets/images/places/2023-03-12_09_23_36_DSC_7977_HDR.jpg)
+
+# Name: Church Street
+
+TBD
+![](../1shropshire/assets/images/places/2023-03-12_09_40_34_DSC_8004_HDR.jpg)
+
+# Name: Unknown Passage
+
+TBD
+![](../1shropshire/assets/images/places/2023-03-12_09_43_43_DSC_8013_HDR.jpg)
+
+# Name: Shrewsbury Cakes
+
+This shop occupies the site of a building where Pailin first made the unique Shrewsbury cakes to his original recipe in the year 1760. 'Oh! Pailin. Prince of Cake Compounders the mouth liquefies at the very name. But there...' see Ingoldsby Legends.
+![](../1shropshire/assets/images/places/2023-03-12_09_51_47_DSC_8031_HDR.jpg)
+
+# Name: Fish Street
+
+TBD
+![](../1shropshire/assets/images/places/2023-03-12_10_17_55_DSC_8074.jpg)
+
+# Name: Wyle Cop
+
+TBD
+![](../1shropshire/assets/images/places/2023-03-12_07_58_53_DSC_7883_HDR.jpg)
+
+# Name: Wyle Cop
+
+TBD
+![](../1shropshire/assets/images/places/2023-03-12_07_55_24_DSC_7877.jpg)
+
 # Name: The Bear Steps
 
 TBD
