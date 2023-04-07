@@ -104,6 +104,12 @@ Built by Rees Jones, a successful attorney in the town, who had frequently appea
 The facade is decorated with Ostrich feathers which represented the Royalist support of the town for the Prince of Wales (who later became Charles I).  During the English Civil War the town remained loyal to the King and it is thought that Royalist Soldiers lodged at The Feathers during this time.
 ![](../1shropshire/assets/images/houses/2019-07-13_13_31_26_DSC_4637.jpg)
 
+# Name: Rose Cottage, Coalbrookdale
+- Date: 1642 AD
+
+Formerly known as Boring Mill, it is said to have been built by Nailers.  The chimneys are cast iron.
+![](../1shropshire/assets/images/houses/2023-03-19_10_27_10_DSC_8133_HDR.jpg)
+
 # Name: Dudmaston Hall
 - Date: 1695 AD
 

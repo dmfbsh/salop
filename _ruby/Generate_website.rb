@@ -164,7 +164,7 @@ FileUtils.cp _BaseFolder + '\1shropshire\updates\_site\1-updateslist.html', _Bas
 
 system('jekyll build --verbose --config _config.yml', chdir: _BaseFolder)
 
-FileUtils.cp _BaseFolder + '\_data\Shropshire_Notebook-Churches_Status.yml', 'C:\Users\David\Documents\Dropbox\Notebooks\Notebook\3. Churches\GitHub\_data', :verbose => true
+FileUtils.cp _BaseFolder + '\_data\Shropshire_Notebook-Churches_Status.yml', 'C:\Users\David\Documents\Google Drive\Notebook\3. Churches\GitHub\churches\_data', :verbose => true
 
 puts 'Press any key to exit.'
 STDIN.getch

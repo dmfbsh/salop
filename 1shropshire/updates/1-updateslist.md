@@ -1,5 +1,16 @@
 ---
 ---
+## 07 Apr 2023
+Added the following items:
+
+- Middle Forge, Coalbrookdale
+- Rose Cottage, Coalbrookdale
+- Severn Gorge Countryside Trust
+- Severn Bank, Ironbridge
+- Ironbridge general
+- Buildwas bridge
+- River Severn great flood 1795
+
 ## 08 Mar 2023
 Added the following items:
 

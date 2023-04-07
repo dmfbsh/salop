@@ -480,6 +480,28 @@ The gatehouse was added in 1640-1641, just before the English Civil War.  At tha
 
 ## Start of the Later Middle Ages
 
+# Name: Hereford Mappa Mundi
+- Date: circa 1300 AD
+
+The Hereford Mappa Mundi is a medieval map of the known world (Latin: mappa mundi), of a form deriving from the T and O pattern, dating from c. 1300.  Archeological scholars believe the map to have originated from eastern England in either Yorkshire or Lincolnshire before it was transported westward to the Hereford Cathedral in Herefordshire where it has remained ever since.  It is the largest medieval map still known to exist.
+
+The Hereford Mappa Mundi depicts Cleehill.
+![](../1shropshire/assets/images/history/mappa-mundi-close-up.jpg)
+
+# Header: 1348 AD
+
+## Black Death
+
+The Black Death (a bubonic plague pandemic), reached England in June 1348.  It was the first and most severe manifestation of the second pandemic.  The term Black Death was not used until the late 17th century.
+
+Originating in Asia, it spread west along the trade routes across Europe and arrived on the British Isles from the English province of Gascony.  The plague was spread by flea-infected rats, as well as individuals who had been infected on the continent.
+
+Nash was a village in Shropshire which is believed to have been wiped out entirely by the Black Death.  It now no longer exists and is described as a lost settlement, deserted medieval village or abandoned village.
+
+The 1349 manorial income for Nash (also referred to as Nesse) indicates that the village was unable to pay any monies "because the inhabitants are dead".  Despite this, the village was home to a farmer called Hercules Felton in 1668 and it had three people paying hearth tax by 1672, and a single barn remained by 1839, suggesting that some human life remained in the area.
+
+Nash has been completely deserted since at least the mid-19th century and the old site is located in the middle of fields near Wrockwardine, though no road or footpath survives to provide access to the area.  A small wood near Drummery Lane marks the location where the foundations of house platforms are speculated to lie but no excavations have ever been conducted on the site of the lost village.
+
 # Name: Carmelite Friary, Ludlow
 - Date: 1350 AD
 
@@ -489,14 +511,6 @@ The convent of Carmelite friars was supressed in 1538 by Henry VIII and the fria
 
 In 1824 the site was opened as St Leonard's burial ground as the old medieval churchyard was completely full (and space here ran out in the First World War).  The chapel of rest was opened in 1871.
 ![](../1shropshire/assets/images/history/2019-07-13_12_35_54_DSC_4622.jpg)
-
-# Name: Hereford Mappa Mundi
-- Date: circa 1300 AD
-
-The Hereford Mappa Mundi is a medieval map of the known world (Latin: mappa mundi), of a form deriving from the T and O pattern, dating from c. 1300.  Archeological scholars believe the map to have originated from eastern England in either Yorkshire or Lincolnshire before it was transported westward to the Hereford Cathedral in Herefordshire where it has remained ever since.  It is the largest medieval map still known to exist.
-
-The Hereford Mappa Mundi depicts Cleehill.
-![](../1shropshire/assets/images/history/mappa-mundi-close-up.jpg)
 
 # Name: Shrewsbury Abbey Pulpit
 - Date: 14th Century AD
@@ -616,6 +630,12 @@ The house was once part of the Aldenham estate and stands on the site of the aba
 Shrewsbury School was founded in 1552 by Edward VI - the stone buildings were built 1594-1630.  Sir Philip Sidney, Judge Jeffreys and Charles Darwin were educated at this school.
 ![](../1shropshire/assets/images/history/2018-07-14_12_30_44_DSC_2786.jpg)
 
+# Name: Middle Forge, Coalbrookdale
+- Date: 1550s AD
+
+Iron was being made in this forge in the 1550s.
+![](../1shropshire/assets/images/history/2023-03-19_10_24_12_DSC_8124.jpg)
+
 # Name: Pitchford Hall
 - Date: c. 1560 AD
 
@@ -712,6 +732,12 @@ On the 28th September, the king informed the gentlemen of the county that he had
 The predominant opinion in the county of Shropshire was for the king.  Most towns in Shropshire were royalist; the main parliamentary centre was Wem.
 
 Ludlow was the last royalist stronghold to fall in May 1646.
+
+# Name: Rose Cottage, Coalbrookdale
+- Date: 1642 AD
+
+Formerly known as Boring Mill, it is said to have been built by Nailers.  The chimneys are cast iron.
+![](../1shropshire/assets/images/history/2023-03-19_10_27_10_DSC_8133_HDR.jpg)
 
 # Name: Lavington's Hole, Bridgnorth
 - Date: 1646 AD
@@ -962,6 +988,12 @@ The Hay Inclined Plane links the Shropshire Canal at Blists Hill with the Coalpo
 
 The inclined plane traverses a height differential of 207ft, it was in operation from 1793 to 1894 and was formally closed in 1907.
 ![](../1shropshire/assets/images/history/2020-07-31_07_03_32_DSC_7711.jpg)
+
+# Name: River Severn, Great Flood
+- Date: 1795 AD
+
+The Great Flood of February 1795 was a hugely destructive event which swept away bridges and wrecked homes.  It is recorded that the flooding level on Saturday, February 14, 1795, was 20ft 3.5in.
+![](../1shropshire/assets/images/history/2023-04-02_07_13_22_IMG_7101.jpg)
 
 # Name: Welsh Bridge, Shrewsbury
 - Date: 1795 AD
@@ -1496,11 +1528,23 @@ On the 1st April 1980 the name change to Shropshire comes into effect.
 The British Ironworks Centre and Shropshire Sculpture Park is a forge, silversmiths and sculpture park, famous for its safari park and gorilla made only of spoons.  The 12ft gorilla is made from 40,000 spoons donated from around the world.  Other notable sculptures are the 20ft knife angel made of knives handed in to police forces as part of an amnesty and four iron pavilions created in honour of the 60th anniversary of Queen Elizabeth II's coronation.
 ![](../1shropshire/assets/images/history/2017-07-30_11_09_58_DSC01302.jpg)
 
+# Name: Buildwas Bridge
+- Date: 1992 AD
+
+The earliest bridge on this site was built by the monks of the nearby abbey and destroyed in the great flood on 1795. It was replaced by Thomas Telford's cast iron arch in 1796 which was later damaged by ground movement and replaced in 1905. The present bridge was built in 1992 by Shropshire County Council and incorporates the store abutments from Thomas Telford's bridge. The castings alongside are from Telford's bridge and from its 1905 replacement.
+![](../1shropshire/assets/images/history/2023-04-02_09_10_35_IMG_7109.jpg)
+
 # Name: Telford & Wrekin Council Created
 - Date: 1998 AD
 
 In 1992 the Local Government Act authorised the creation of two unitary authorities, as a result Telford & Wrekin Council was created in 1998 - but remains part of the ceremonial county of Shropshire.
 ![](../1shropshire/assets/images/history/Telford_and_Wrekin.png)
+
+# Name: Severn Gorge Countryside Trust
+- Date: 1991 AD
+
+The Severn Gorge Countryside Trust is a registered charity that was set up in 1991.  It is the main land manager of the Ironbridge Gorge World Heritage Site. 
+![](../1shropshire/assets/images/history/2023-03-19_08_11_38_IMG_7094.jpg)
 
 # Name: Quantum Leap, Shrewsbury
 - Date: 8th October 2009 AD
