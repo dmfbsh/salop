@@ -1,5 +1,11 @@
 ---
 ---
+## 08 Apr 2023
+Added the following items:
+
+- Wistanstow church
+- Ryton church
+
 ## 07 Apr 2023
 Added the following items:
 
