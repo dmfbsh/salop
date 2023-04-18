@@ -7,14 +7,65 @@ title: Towns of Shropshire
 
 {% assign numrecs = 0 %}
 
+{% for item in site.data.Shropshire_Notebook-Oswestry %}
+  {% if item.Type == "Header" %}
 <div>
 <div class="container">
 <div class="row">
 <div class="col-md-12">
-<h2>Oswestry</h2>
+<h2>{{ item.Title }}</h2>
+{{ item.Description | markdownify }}
 </div>
 </div>
 </div>
 </div>
+  {% endif %}
+
+  {% if item.Type == "Item" %}
+<div>
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<hr>
+<h3>{{ item.Title }}</h3>
+{{ item.Description | markdownify }}
+</div>
+</div>
+</div>
+</div>
+  {% assign orientation = "unknown" %}
+  {% for thumb in item.Thumbnails %}
+  {% assign numrecs = numrecs | plus: 1 %}
+
+    {% if orientation == "left" %}
+      {% assign orientation = "right" %}
+<div class="col-md-6">
+<img class="imgc" src="assets/images/places/{{ thumb.Thumbnail }}">
+</div>
+</div>
+</div>
+</div>
+    {% else %}
+      {% assign orientation = "left" %}
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<img class="imgc" src="assets/images/places/{{ thumb.Thumbnail }}">
+</div>
+    {% endif %}
+
+  {% endfor %}
+{% if orientation == "left" %}
+<div class="col-md-6">
+</div>
+</div>
+</div>
+</div>
+{% endif %}
+  {% endif %}
+
+{% endfor %}
+
 
 {% include 1-footer-bs.html %}

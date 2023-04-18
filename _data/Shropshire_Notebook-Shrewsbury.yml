@@ -1,529 +1,437 @@
+- Type: Header
+  Title: Shrewsbury
+  Description: |
+    It is thought that the area of Shrrwsbury was setted in the 5th Century by refugees from the nearby Roman City of Viroconium Cornoviorum, but the first physical evidence dates from the 7th century Saxons.
+
+    
+
+    Shrewsbury was probably founded as a town in the 8th Century by the Saxon rulers of Mercia, who needed a fortified burh to control the Severn river-crossing on the road between the burhs of Hereford and Chester (and so came to replace the old Roman City of Viroconium Cornoviorum as the major settlement in the area).
+
+    
+
+    Shrewsbury grew in stature quickly and became the county town of Shropshire by the beginning of the 11th Century.  By 1066, the mid-11th Century, the town consisted of more than 250 houses, and had four churches: St Chad's, St Mary's, St Alkmond's, and St Julian's, of which at least the first three were minsters.
+
+    
+
+    Roger de Montgomery, a relative of William the Conqueror, was created first Earl of Shrewsbury, and in 1074 began building a castle, as well as founding the Abbey (1083).
+
+    
+
+    The town centre has a pronounced hill on the north side of the meander where the neck of the meander is, upon which sits the castle, though the present day castle dates from the 13th century. The original town probably only occupied the summit of the hill, but it was probably extended southwards in the 13th century, as the town received a grant in 1218 of murage, a toll to build town walls, the first in England.  It also received one of the earliest grants of pavage in 1266, 'for the paving of the new market place' removed from the churchyard of St Alkmund and St Julians.
+
+    
+
+    The town fell to Welsh forces led by Llywelyn the Great in 1215 and again in 1234; after both attacks the defences were greatly increased.  In 1283 Edward I held a Parliament, the first to include a House of Commons, at Shrewsbury Abbey to decide the fate of Dafydd ap Gruffydd, the last free Welsh ruler of Wales.  Dafydd was executed – hanged, drawn and quartered – for high treason in Shrewsbury.
+
+    
+
+    Shrewsbury is often regarded as having reached its height in the late Middle Ages, in terms of its national and economic significance. This was largely down to its position as a centre of the woollen trade, being a centre for the finishing of Welsh cloth. Shrewsbury merchants bought cloth, which had been woven and fulled but not finished, such as friezes and plains, in Oswestry market. After finishing, much of it was sent by road to London for sale.
+
+    
+
+    Later, after the formation of the Church of England, it is believed that the town was offered the status of cathedral city by Henry VIII, as the part of a proposed 'Diocese of Shropshire'.  Reputedly, the citizens of the town rejected this offer, preferring to remain a 'first of towns', this being the source of the term 'Proud Salopian', that refers to a resident proud of Shrewsbury the way it is.
+
+    
+
+    As a result, a number of grand edifices, including the Ireland's Mansion (built 1575) and Draper's Hall (1658), were constructed. It was also in this period that Edward VI gave permission for the foundation of a free school, which was later to become Shrewsbury School, initially built in Castle Gates, a site it occupied until moving to its present site in the suburb of Kingsland in 1882.
+
+    
+
+    During the English Civil War, the town was a royalist stronghold and only fell to Parliament forces after they were let in by a traitor at the St Mary's Water Gate (now also known as Traitor's Gate).
+
+    
+
+    The town did not experience the same massive growth that other English towns experienced during the industrial revolution and few large factories grew up in the town. Despite this, the world's first iron-framed building, the Ditherington Flax Mill was built in the town in 1797. During the 1830s and 1840s, the town decreased in population mainly due to the lack of good transport links and little industry.
+
+    
+
+    The town was scarcely bombed in World War II.  The town played a role in the Cold War, hosting a regional headquarters of the Royal Observer Corps (HQ 16 Group ROC) in the town until the Corps was dissolved in 1995.
 - Type: Item
-  Name: General View
+  Title: Barracks Passage
+  LatLong: 
+  Description: |
+    Runs from Wyle Cop to Belmont Bank, alongside the Henry Tudor House.
+  Thumbnails:
+    - Thumbnail: 2023-02-12_10_09_58_DSC_7709_HDR.jpg
+
+- Type: Item
+  Title: Church Street
+  LatLong: 
   Description: |
     TBD
-  Thumbnail: 2023-03-12_08_39_03_DSC_7934_BW.jpg
+  Thumbnails:
+    - Thumbnail: 2022-11-06_09_53_30_DSC_5178_HDR.jpg
+    - Thumbnail: 2023-03-12_09_40_34_DSC_8004_HDR.jpg
 
 - Type: Item
-  Name: Boundary Stone
-  Description: |
-    The stone that marks the boundary of the parishes of Holy Cross & St Giles, Abbey Foregate and St Julian, Shrewsbury, it formerly stood on the old English or stone bridge demolished in 1774.
-  Thumbnail: 2023-03-12_07_44_04_DSC_7873.jpg
-
-- Type: Item
-  Name: General View
+  Title: Claremont Hill
+  LatLong: 
   Description: |
     TBD
-  Thumbnail: 2023-03-12_08_26_57_DSC_7929.jpg
+  Thumbnails:
+    - Thumbnail: 2023-03-12_09_02_41_DSC_7944_HDR.jpg
+    - Thumbnail: 2023-03-12_09_00_40_DSC_7938_HDR.jpg
 
 - Type: Item
-  Name: General View
+  Title: Council House Gatehouse and Gateway
+  LatLong: 
+  Description: |
+    The house is probably early 16th Century, and the gatehouse is dated 1620.
+  Thumbnails:
+    - Thumbnail: 2022-11-06_09_37_23_DSC_5159_HDR.jpg
+
+- Type: Item
+  Title: Fish Street
+  LatLong: 
   Description: |
     TBD
-  Thumbnail: 2023-03-12_08_18_55_DSC_7922.jpg
+  Thumbnails:
+    - Thumbnail: 2019-10-04_13_26_29_DSC_0079.jpg
+    - Thumbnail: 2022-10-16_09_59_40_DSC_5037.jpg
+    - Thumbnail: 2022-11-06_09_26_57_DSC_5140_HDR.jpg
+    - Thumbnail: 2022-11-06_09_28_45_DSC_5146_HDR.jpg
+    - Thumbnail: 2023-03-12_10_17_55_DSC_8074.jpg
 
 - Type: Item
-  Name: Unknown Passage
+  Title: Frankwell
+  LatLong: 
   Description: |
     TBD
-  Thumbnail: 2023-03-12_08_04_54_DSC_7898_HDR.jpg
+  Thumbnails:
+    - Thumbnail: 2022-10-16_09_34_48_DSC_4983.jpg
 
 - Type: Item
-  Name: Claremont Hill
+  Title: Gateway of the Shoemakers Arbour
+  LatLong: 
+  Description: |
+    Originally erected on Kingsland in 1679 by the Shoemakers; Guild, and removed to the present site in 1877. The figures represent Crispin and Crispian - the partron saints of shoemakers. The gateway is built of stone, and bears the date of 1679 and the initials, H. P. and E. A.; the wardens of the Shoemakers’ guild at that time.
+  Thumbnails:
+    - Thumbnail: 2022-10-16_09_20_33_DSC_4950_HDR.jpg
+
+- Type: Item
+  Title: General View
+  LatLong: 
   Description: |
     TBD
-  Thumbnail: 2023-03-12_09_00_40_DSC_7938_HDR.jpg
+  Thumbnails:
+    - Thumbnail: 2019-10-04_13_26_29_DSC_0052.jpg
+    - Thumbnail: 2019-10-04_13_26_29_DSC_0064.jpg
+    - Thumbnail: 2019-10-04_13_26_29_DSC_0091.jpg
+    - Thumbnail: 2022-05-28_11_13_17_DSC_2164.jpg
+    - Thumbnail: 2022-11-20_09_19_55_DSC_5363.jpg
+    - Thumbnail: 2022-11-20_09_58_05_DSC_5401.jpg
+    - Thumbnail: 2022-11-20_10_01_13_DSC_5403.jpg
 
 - Type: Item
-  Name: Claremont Hill
+  Title: Golden Cross Passage
+  LatLong: 
   Description: |
-    The Old Parsonage or Manse This house, built in 1689 for a Shrewsbury Draper's family stands on the site of one clearly shown on the Burleigh map of 1575, which it probably incorporates. When the new king George I gave his protection to the Unitarian Church in the High Street after its destruction in 1715, this house also became the Minister's manse until thr 1920s as well as the church's school to provide non-Trinitarian education. Charles Darwin along with his sister were pupils here in 1827 under the Reverend Augustus Chase before hew went on to the Schools, Shrewsbiry (now the library). The poet ST Coleridge, though staying with Hazlitt in Wem, was associated with the house when a candidate for the ministry here, only to be granted a pension to pursue his radical policies and philosphy by thethen patron Josiah Wedgewood, Darwin's grandfather. Religious mobs damaged the house several times during the 1700s. It received the award of the Shrewsbury Civic Society for its restiration in the early 1950s.
-  Thumbnail: 2023-03-12_09_02_41_DSC_7944_HDR.jpg
+    This passage runs between the High Street and Princess Street.
+  Thumbnails:
+    - Thumbnail: 2023-02-12_10_01_23_DSC_7688_HDR.jpg
 
 - Type: Item
-  Name: The Square
-  Description: |
-    TBD
-  Thumbnail: 2023-03-12_09_16_29_DSC_7965_HDR.jpg
-
-- Type: Item
-  Name: The Square
-  Description: |
-    TBD
-  Thumbnail: 2023-03-12_09_19_20_DSC_7971_HDR.jpg
-
-- Type: Item
-  Name: St Alkmonds Place
+  Title: High Street
+  LatLong: 
   Description: |
     TBD
-  Thumbnail: 2023-03-12_09_35_25_DSC_7989_HDR.jpg
+  Thumbnails:
+    - Thumbnail: 2022-05-28_10_43_44_DSC_2093.jpg
 
 - Type: Item
-  Name: Milk Street
+  Title: Mardol
+  LatLong: 
+  Description: |
+    The Mardol Dragon - not actually part of the original building, but added in the 20th Century!
+  Thumbnails:
+    - Thumbnail: 2019-06-15_16_00_48_DSC02196.jpg
+    - Thumbnail: 2022-10-16_09_51_37_DSC_5019.jpg
+    - Thumbnail: 2023-04-15_14_27_17_DSC_8627.jpg
+    - Thumbnail: 2023-04-15_14_37_08_DSC_8634.jpg
+    - Thumbnail: 2023-04-15_14_40_45_DSC_8635.jpg
+
+- Type: Item
+  Title: Milk Street
+  LatLong: 
   Description: |
     TBD
-  Thumbnail: 2023-03-12_08_01_53_DSC_7889_HDR.jpg
+  Thumbnails:
+    - Thumbnail: 2022-05-28_10_27_37_DSC_2073_HDR.jpg
+    - Thumbnail: 2023-03-12_09_23_36_DSC_7977_HDR.jpg
+    - Thumbnail: 2023-03-12_08_01_53_DSC_7889_HDR.jpg
 
 - Type: Item
-  Name: Milk Street
+  Title: Peacock Passage
+  LatLong: 
   Description: |
     TBD
-  Thumbnail: 2023-03-12_09_23_36_DSC_7977_HDR.jpg
+  Thumbnails:
+    - Thumbnail: 2023-03-12_08_04_54_DSC_7898_HDR.jpg
 
 - Type: Item
-  Name: Church Street
+  Title: Princess Street
+  LatLong: 
   Description: |
     TBD
-  Thumbnail: 2023-03-12_09_40_34_DSC_8004_HDR.jpg
+  Thumbnails:
+    - Thumbnail: 2023-03-12_08_18_55_DSC_7922.jpg
 
 - Type: Item
-  Name: Unknown Passage
+  Title: Shrewsbury Cakes
+  LatLong: 
+  Description: |
+    This shop occupies the site of a building where Pailin first made the unique Shrewsbury cakes to his original recipe in the year 1760. ‘Oh! Pailin. Prince of Cake Compounders the mouth liquefies at the very name. But there…’ see Ingoldsby Legends.
+  Thumbnails:
+    - Thumbnail: 2023-03-12_09_51_47_DSC_8031_HDR.jpg
+
+- Type: Item
+  Title: St Alkmonds Place
+  LatLong: 
   Description: |
     TBD
-  Thumbnail: 2023-03-12_09_43_43_DSC_8013_HDR.jpg
+  Thumbnails:
+    - Thumbnail: 2022-11-06_09_55_12_DSC_5181.jpg
+    - Thumbnail: 2023-03-12_09_35_25_DSC_7989_HDR.jpg
 
 - Type: Item
-  Name: Shrewsbury Cakes
-  Description: |
-    This shop occupies the site of a building where Pailin first made the unique Shrewsbury cakes to his original recipe in the year 1760. 'Oh! Pailin. Prince of Cake Compounders the mouth liquefies at the very name. But there...' see Ingoldsby Legends.
-  Thumbnail: 2023-03-12_09_51_47_DSC_8031_HDR.jpg
-
-- Type: Item
-  Name: Fish Street
+  Title: St Chads Church (new)
+  LatLong: 
   Description: |
     TBD
-  Thumbnail: 2023-03-12_10_17_55_DSC_8074.jpg
+  Thumbnails:
+    - Thumbnail: 2022-11-06_10_28_58_DSC_5202.jpg
+    - Thumbnail: 2023-03-12_08_26_57_DSC_7929.jpg
+    - Thumbnail: 2023-03-12_08_39_03_DSC_7934_BW.jpg
 
 - Type: Item
-  Name: Wyle Cop
+  Title: St Chads Church (old)
+  LatLong: 
   Description: |
     TBD
-  Thumbnail: 2023-03-12_07_58_53_DSC_7883_HDR.jpg
+  Thumbnails:
+    - Thumbnail: 2022-05-28_10_22_46_DSC_2068.jpg
 
 - Type: Item
-  Name: Wyle Cop
+  Title: St Johns Hill
+  LatLong: 
   Description: |
     TBD
-  Thumbnail: 2023-03-12_07_55_24_DSC_7877.jpg
+  Thumbnails:
+    - Thumbnail: 2019-10-04_13_26_29_DSC_0113.jpg
+    - Thumbnail: 2022-10-16_09_08_10_DSC_4917_HDR.jpg
 
 - Type: Item
-  Name: The Bear Steps
+  Title: Statue - Clive of India
+  LatLong: 
   Description: |
     TBD
-  Thumbnail: 2023-02-12_08_25_37_DSC_7604_HDR.jpg
+  Thumbnails:
+    - Thumbnail: 2022-05-28_10_57_22_DSC_2132.jpg
 
 - Type: Item
-  Name: Wyle Cop
+  Title: Statue - Hercules
+  LatLong: 
   Description: |
-    TBD
-  Thumbnail: 2023-02-12_08_15_12_DSC_7582.jpg
+    The statue is a lead copy of the Farnese Hercules on a stone pedestal. It was created in the 18th Century and is possibly by John Nost, it was originally at Condover Hall. The inscription on plinth reads: Copy of the statue executed by the Athenian Sculptor Glycon and known as the Farnese Hercules.
+  Thumbnails:
+    - Thumbnail: 2022-10-16_09_17_39_DSC_4947.jpg
 
 - Type: Item
-  Name: Barracks Passage
+  Title: The Abbey Church
+  LatLong: 
   Description: |
-    TBD
-  Thumbnail: 2023-02-12_10_09_58_DSC_7709_HDR.jpg
+    The Abbey Church of the Holy Cross was founded in 1083 as a Benedictine monastery by the Norman Earl of Shrewsbury, Roger de Montgomery.  It grew to be one of the most important and influential abbeys in England, and an important centre of pilgrimage.  Although much of the Abbey was destroyed in the 16th Century, the nave survived as a parish church, and today serves as the mother church for the Parish of Holy Cross.
+  Thumbnails:
+    - Thumbnail: 2022-11-20_09_41_45_DSC_5383.jpg
+    - Thumbnail: 2022-11-05_11_45_07_DSC_5089.jpg
+    - Thumbnail: 2022-11-05_11_46_21_DSC_5091.jpg
+    - Thumbnail: 2022-11-05_11_40_26_DSC_5083.jpg
+    - Thumbnail: 2021-10-09_10_10_44_DSC_0576.jpg
+    - Thumbnail: 2021-10-09_10_11_32_DSC_0577.jpg
+    - Thumbnail: 2021-10-09_10_14_52_DSC_0583.jpg
+    - Thumbnail: 2021-10-09_10_16_17_DSC_0586.jpg
+    - Thumbnail: 2021-10-09_10_25_10_DSC_0592.jpg
+    - Thumbnail: 2021-10-09_10_26_01_DSC_0595.jpg
+    - Thumbnail: 2021-10-09_10_26_43_DSC_0596.jpg
+    - Thumbnail: 2021-10-09_10_28_43_DSC_0600.jpg
+    - Thumbnail: 2022-11-05_11_52_51_DSC_5101.jpg
+    - Thumbnail: 2022-11-05_11_57_48_DSC_5109.jpg
 
 - Type: Item
-  Name: Golden Cross Passage
-  Description: |
-    TBD
-  Thumbnail: 2023-02-12_10_01_23_DSC_7688_HDR.jpg
-
-- Type: Item
-  Name: View from Greyfriars Bridge
-  Description: |
-    TBD
-  Thumbnail: 2023-02-05_10_49_20_DSC_7533.jpg
-
-- Type: Item
-  Name: The Bear Steps
+  Title: The Bear Steps
+  LatLong: 
   Description: |
     Bear Steps (1358-1359 AD) itself is named for The Bear Inn Pub which sat on the corner of Fish Street and Grope Lane.
-  Thumbnail: 2023-02-05_10_19_09_DSC_7508_HDR.jpg
+
+    
+
+    The Bear Steps area encompasses many of Shrewsbury’s most historic streets. Historically, the area was filled with traditional traders which gave the surrounding streets many of their names; Butcher Row, Fish Street, Grope Lane. Bear Steps itself is named for The Bear Inn Pub which sat on the corner of Fish Street and Grope Lane. Although local legend claims the area was historically home to one of Shrewsbury’s bear pits.
+
+    
+
+    At the centre of Bear Steps sit two of Shrewsbury’s five churches; St Alkmund’s and St Julian’s. Founded in 902, St Alkmund’s Church stands at the highest point in town. St Julian’s tower dates from the 12th century, and the present nave was designed by Thomas Farnolls Pritchard who also designed the Iron Bridge at Telford.
+  Thumbnails:
+    - Thumbnail: 2022-11-20_10_32_40_DSC_5427_HDR.jpg
+    - Thumbnail: 2023-02-05_10_19_09_DSC_7508_HDR.jpg
+    - Thumbnail: 2023-02-12_08_25_37_DSC_7604_HDR.jpg
 
 - Type: Item
-  Name: The Bellstone
+  Title: The Bellstone
+  LatLong: 
   Description: |
     A young Charles Darwin’s first introduction to geology was a granite boulder, called the Bellstone, situated in Morris Hall courtyard in Shrewsbury town centre.
 
+    
+
     As a child, Darwin was told this sort of stone was only found much further north in Cumbria or Scotland and there was no explanation for how it ended up in Shropshire. It was only when he studied geology at Edinburgh that Darwin learned that during the last ice age moving glaciers had transported massive rocks across the country.
 
+    
+
     Shropshire has rocks from more periods of geology than anywhere else in the world, and it was The Bellstone that inspired a young Charles Darwin. The glacial meres and scars that shaped the Shropshire landscape and deposits they left (and the Bellstone in particular) convinced Darwin that the world is much older than the popular thinking at the time.
-  Thumbnail: 2023-02-05_10_04_39_DSC_7498.jpg
+  Thumbnails:
+    - Thumbnail: 2023-02-05_10_04_39_DSC_7498.jpg
 
 - Type: Item
-  Name: Abbey Church
+  Title: The Boundary Stone
+  LatLong: 
   Description: |
-    The Abbey Church
-  Thumbnail: 2021-10-09_10_10_44_DSC_0576.jpg
+    The stone that marks the boundary of the parishes of Holy Cross & St Giles, Abbey Foregate and St Julian, Shrewsbury, it formerly stood on the old English or stone bridge demolished in 1774.
+  Thumbnails:
+    - Thumbnail: 2023-03-12_07_44_04_DSC_7873.jpg
 
 - Type: Item
-  Name: Abbey Church
+  Title: The Dingle
+  LatLong: 
   Description: |
-    The Abbey Church
-  Thumbnail: 2021-10-09_10_11_32_DSC_0577.jpg
+    TBD
+  Thumbnails:
+    - Thumbnail: 2019-03-31_12_16_11_DSC_3818.jpg
+    - Thumbnail: 2019-03-31_12_18_17_DSC_3820.jpg
 
 - Type: Item
-  Name: Abbey Church
+  Title: The English Bridge
+  LatLong: 
   Description: |
-    The Abbey Church
-  Thumbnail: 2021-10-09_10_14_52_DSC_0583.jpg
+    TBD
+  Thumbnails:
+    - Thumbnail: 2022-11-20_09_52_36_DSC_5391.jpg
 
 - Type: Item
-  Name: Abbey Church
+  Title: The Library
+  LatLong: 
   Description: |
-    The Abbey Church
-  Thumbnail: 2021-10-09_10_16_17_DSC_0586.jpg
+    TBD
+  Thumbnails:
+    - Thumbnail: 2022-11-06_09_39_05_DSC_5162.jpg
 
 - Type: Item
-  Name: Abbey Church
+  Title: The Lion
+  LatLong: 
   Description: |
-    The Abbey Church
-  Thumbnail: 2021-10-09_10_25_10_DSC_0592.jpg
+    The main part of the present building dates from 1778, but there is evidence to suggest that there was coaching inn on the site prior to 1553 (known as the Red Lion). The Lion has a history of holding events for the local nobility and gentry including Darwin (who arrived late one night just after his 5 year voyage on HMS Beagle), Disraeli and King William IV entertained by the likes of Charles Dickens and Paganini.
+  Thumbnails:
+    - Thumbnail: 2022-11-20_10_43_00_DSC_5471.jpg
 
 - Type: Item
-  Name: Abbey Church
+  Title: The Loopy Shrew
+  LatLong: 
   Description: |
-    The Abbey Church
-  Thumbnail: 2021-10-09_10_26_01_DSC_0595.jpg
+    TBD
+  Thumbnails:
+    - Thumbnail: 2022-05-28_11_17_01_DSC_2167.jpg
 
 - Type: Item
-  Name: Abbey Church
+  Title: The Lord Hill Column
+  LatLong: 
   Description: |
-    The Abbey Church
-  Thumbnail: 2021-10-09_10_26_43_DSC_0596.jpg
+    TBD
+  Thumbnails:
+    - Thumbnail: 2022-11-20_09_30_23_DSC_5373.jpg
 
 - Type: Item
-  Name: Abbey Church
+  Title: The Market Hall (new)
+  LatLong: 
   Description: |
-    The Abbey Church
-  Thumbnail: 2021-10-09_10_28_43_DSC_0600.jpg
+    TBD
+  Thumbnails:
+    - Thumbnail: 2022-05-28_12_24_24_DSC_2230.jpg
+    - Thumbnail: 2022-05-28_12_25_48_DSC_2234.jpg
+    - Thumbnail: 2022-05-28_12_26_39_DSC_2235.jpg
 
 - Type: Item
-  Name: Abbey Church
+  Title: The Market Hall (old)
+  LatLong: 
   Description: |
-    The Abbey Church
-  Thumbnail: 2022-11-05_11_52_51_DSC_5101.jpg
+    TBD
+  Thumbnails:
+    - Thumbnail: 2022-03-12_11_32_01_DSC_0448.jpg
+    - Thumbnail: 2022-03-12_11_27_37_DSC_0437.jpg
+    - Thumbnail: 2022-05-28_Montage 01.jpg
 
 - Type: Item
-  Name: Abbey Church
+  Title: The Market Square
+  LatLong: 
   Description: |
-    The Abbey Church
-  Thumbnail: 2022-11-05_11_57_48_DSC_5109.jpg
+    TBD
+  Thumbnails:
+    - Thumbnail: 2022-05-28_11_03_06_DSC_2150.jpg
+    - Thumbnail: 2022-11-06_10_43_33_DSC_5218_HDR.jpg
+    - Thumbnail: 2023-03-12_09_19_20_DSC_7971_HDR.jpg
+    - Thumbnail: 2023-03-12_09_16_29_DSC_7965_HDR.jpg
 
 - Type: Item
-  Name: Fish Street
-  Description: |
-    Fish Street
-  Thumbnail: 2022-11-06_09_26_57_DSC_5140_HDR.jpg
-
-- Type: Item
-  Name: Fish Street
-  Description: |
-    Fish Street
-  Thumbnail: 2022-11-06_09_28_45_DSC_5146_HDR.jpg
-
-- Type: Item
-  Name: Church Street
-  Description: |
-    Church Street
-  Thumbnail: 2022-11-06_09_53_30_DSC_5178_HDR.jpg
-
-- Type: Item
-  Name: Bear Steps
-  Description: |
-    The Bear Steps area encompasses many of Shrewsbury’s most historic streets.  Historically, the area was filled with traditional traders which gave the surrounding streets many of their names; Butcher Row, Fish Street, Grope Lane.  Bear Steps itself is named for The Bear Inn Pub which sat on the corner of Fish Street and Grope Lane.  Although local legend claims the area was historically home to one of Shrewsbury’s bear pits. 
-
-    At the centre of Bear Steps sit two of Shrewsbury’s five churches; St Alkmund’s and St Julian’s. Founded in 902, St Alkmund’s Church stands at the highest point in town.  St Julian’s tower dates from the 12th century, and the present nave was designed by Thomas Farnolls Pritchard who also designed the Iron Bridge at Telford.
-  Thumbnail: 2022-11-20_10_32_40_DSC_5427_HDR.jpg
-
-- Type: Item
-  Name: The Lion
-  Description: |
-    The main part of the present building dates from 1778, but there is evidence to suggest that there was coaching inn on the site prior to 1553 (known as the Red Lion).  The Lion has a history of holding events for the local nobility and gentry including Darwin (who arrived late one night just after his 5 year voyage on HMS Beagle), Disraeli and King William IV entertained by the likes of Charles Dickens and Paganini.
-  Thumbnail: 2022-11-20_10_43_00_DSC_5471.jpg
-
-- Type: Item
-  Name: The English Bridge
-  Description: |
-    The English Bridge
-  Thumbnail: 2022-11-20_09_52_36_DSC_5391.jpg
-
-- Type: Item
-  Name: Council House Gatehouse and Gateway
-  Description: |
-    The house is probably early 16th Century, and the gatehouse is dated 1620.
-  Thumbnail: 2022-11-06_09_37_23_DSC_5159_HDR.jpg
-
-- Type: Item
-  Name: Gateway of the Shoemakers’ Arbour
-  Description: |
-    Originally erected on Kingsland in 1679 by the Shoemakers; Guild, and removed to the present site in 1877.  The figures represent Crispin and Crispian - the partron saints of shoemakers.  The gateway is built of stone, and bears the date of 1679 and the initials, H. P. and E. A.; the wardens of the Shoemakers’ guild at that time.
-  Thumbnail: 2022-10-16_09_20_33_DSC_4950_HDR.jpg
-
-- Type: Item
-  Name: Wyle Cop
-  Description: |
-    65-69 Wyle Cop - late 15th Century, probably originally a dwelling.  Wyle Cop - Wyle is medieval English for hill, and Cop means ‘top of’.
-  Thumbnail: 2022-10-16_08_25_40_DSC_4860_HDR.jpg
-
-- Type: Item
-  Name: Wyle Cop
-  Description: |
-    65-69 Wyle Cop - late 15th Century, probably originally a dwelling.  Wyle Cop - Wyle is medieval English for hill, and Cop means ‘top of’.
-  Thumbnail: 2022-10-16_10_02_50_DSC_5043_HDR.jpg
-
-- Type: Item
-  Name: St Chads, new Church
-  Description: |
-    The new St Chads church
-  Thumbnail: 2022-11-06_10_28_58_DSC_5202.jpg
-
-- Type: Item
-  Name: Lord Hill Column
-  Description: |
-    The Lord Hill column
-  Thumbnail: 2022-11-20_09_30_23_DSC_5373.jpg
-
-- Type: Item
-  Name: The Square
-  Description: |
-    The Square
-  Thumbnail: 2022-11-06_10_43_33_DSC_5218_HDR.jpg
-
-- Type: Item
-  Name: The Abbey Church
-  Description: |
-    The Abbey Church
-  Thumbnail: 2022-11-20_09_41_45_DSC_5383.jpg
-
-- Type: Item
-  Name: The Abbey Church
-  Description: |
-    The Abbey Church
-  Thumbnail: 2022-11-05_11_45_07_DSC_5089.jpg
-
-- Type: Item
-  Name: The Abbey Church
-  Description: |
-    The Abbey Church
-  Thumbnail: 2022-11-05_11_46_21_DSC_5091.jpg
-
-- Type: Item
-  Name: The Abbey Church
-  Description: |
-    The Abbey Church
-  Thumbnail: 2022-11-05_11_40_26_DSC_5083.jpg
-
-- Type: Item
-  Name: The Old Town Hall
-  Description: |
-    The Old Town Hall
-  Thumbnail: 2022-05-28_Montage 01.jpg
-
-- Type: Item
-  Name: The Market Hall
-  Description: |
-    The Market Hall
-  Thumbnail: 2022-05-28_12_26_39_DSC_2235.jpg
-
-- Type: Item
-  Name: The Market Hall
-  Description: |
-    The Market Hall
-  Thumbnail: 2022-05-28_12_25_48_DSC_2234.jpg
-
-- Type: Item
-  Name: The Market Hall
-  Description: |
-    The Market Hall
-  Thumbnail: 2022-05-28_12_24_24_DSC_2230.jpg
-
-- Type: Item
-  Name: War Memorial
+  Title: The War Memorial
+  LatLong: 
   Description: |
     The memorial was designed by George Hubbard FSA FRIBA, of Hubbard and Moore, around a central figure by Allan Gairdner Wyon FRBS. The monument was built by Messrs Kirkpartrick and the statue was cast by A B Burton, of Thames Ditton. The memorial was unveiled on 29 July 1922 by George Herbert, 4th Earl of Powis, the Lord Lieutenant of Shropshire, in a ceremony presided over by the Right Reverend John Kempthorne, the Bishop of Lichfield.
 
+    
+
     The centre of the rotunda is occupied by a bronze statue of Saint Michael depicted as the field commander of the Army of God, in a full set of Gothic plate armour and holding a pennanted lance. His right hand is held out in benediction, he has a halo in the shape of a solar cross and he is framed by a large pair of feathered wings.
-  Thumbnail: 2022-10-16_09_11_59_DSC_4926.jpg
+  Thumbnails:
+    - Thumbnail: 2022-10-16_09_11_59_DSC_4926.jpg
 
 - Type: Item
-  Name: The Loopy Shrew
+  Title: Unknown Passage - Castle St to St Marys Pl
+  LatLong: 
   Description: |
-    The Loopy Shrew
-  Thumbnail: 2022-05-28_11_17_01_DSC_2167.jpg
+    TBD
+  Thumbnails:
+    - Thumbnail: 2023-03-12_09_43_43_DSC_8013_HDR.jpg
 
 - Type: Item
-  Name: Unknown
+  Title: Unknown Passage - Fish St to High St
+  LatLong: 
   Description: |
-    Unknown
-  Thumbnail: 2022-05-28_11_13_17_DSC_2164.jpg
+    TBD
+  Thumbnails:
+    - Thumbnail: 2022-11-20_10_39_21_DSC_5460_HDR.jpg
 
 - Type: Item
-  Name: Buskers
+  Title: View from Greyfriars Bridge
+  LatLong: 
   Description: |
-    Buskers
-  Thumbnail: 2022-05-28_11_03_06_DSC_2150.jpg
+    TBD
+  Thumbnails:
+    - Thumbnail: 2023-02-05_10_49_20_DSC_7533.jpg
 
 - Type: Item
-  Name: Clive of India
-  Description: |
-    Clive of India
-  Thumbnail: 2022-05-28_10_57_22_DSC_2132.jpg
-
-- Type: Item
-  Name: High St
-  Description: |
-    High Street
-  Thumbnail: 2022-05-28_10_43_44_DSC_2093.jpg
-
-- Type: Item
-  Name: Milk St
-  Description: |
-    Milk Street
-  Thumbnail: 2022-05-28_10_27_37_DSC_2073_HDR.jpg
-
-- Type: Item
-  Name: Old St Chad's Door
-  Description: |
-    Old St Chad's Door
-  Thumbnail: 2022-05-28_10_22_46_DSC_2068.jpg
-
-- Type: Item
-  Name: Old Market Hall
-  Description: |
-    Old Market Hall
-  Thumbnail: 2022-03-12_11_27_37_DSC_0437.jpg
-
-- Type: Item
-  Name: Old Market Hall
-  Description: |
-    Old Market Hall
-  Thumbnail: 2022-03-12_11_32_01_DSC_0448.jpg
-
-- Type: Item
-  Name: View from Lord Hill Column
+  Title: View from Lord Hill Column
+  LatLong: 
   Description: |
     View of Shrewsbury from the top of the Lord Hill column - the column is 133ft tall and there are 172 steps.
-  Thumbnail: 2018-07-14_10_21_34_DSC_2749.jpg
+  Thumbnails:
+    - Thumbnail: 2018-07-14_10_16_06_DSC_2737.jpg
+    - Thumbnail: 2018-07-14_10_21_34_DSC_2749.jpg
 
 - Type: Item
-  Name: Abbey Foregate
+  Title: Wyle Cop
+  LatLong: 
   Description: |
-    View of Abbey Foregate and the Abbey from the top of the Lord Hill column - the column is 133ft tall and there are 172 steps.
-  Thumbnail: 2018-07-14_10_16_06_DSC_2737.jpg
-
-- Type: Item
-  Name: The Dingle
-  Description: |
-    The Dingle
-  Thumbnail: 2019-03-31_12_16_11_DSC_3818.jpg
-
-- Type: Item
-  Name: The Dingle
-  Description: |
-    The Dingle
-  Thumbnail: 2019-03-31_12_18_17_DSC_3820.jpg
-
-- Type: Item
-  Name: The Mardol Dragon
-  Description: |
-    The Mardol Dragon - not actually part of the original building, but added in the 20th Century!
-  Thumbnail: 2019-06-15_16_00_48_DSC02196.jpg
-
-- Type: Item
-  Name: TBD
-  Description: |
-    TBD
-  Thumbnail: 2019-10-04_13_26_29_DSC_0052.jpg
-
-- Type: Item
-  Name: TBD
-  Description: |
-    TBD
-  Thumbnail: 2019-10-04_13_26_29_DSC_0064.jpg
-
-- Type: Item
-  Name: TBD
-  Description: |
-    TBD
-  Thumbnail: 2019-10-04_13_26_29_DSC_0079.jpg
-
-- Type: Item
-  Name: TBD
-  Description: |
-    TBD
-  Thumbnail: 2019-10-04_13_26_29_DSC_0091.jpg
-
-- Type: Item
-  Name: Statue of Hercules
-  Description: |
-    The statue is a lead copy of the Farnese Hercules on a stone pedestal.  It was created in the 18th Century and is possibly by John Nost, it was originally at Condover Hall.  The inscription on plinth reads: Copy of the statue executed by the Athenian Sculptor Glycon and known as the Farnese Hercules.
-  Thumbnail: 2022-10-16_09_17_39_DSC_4947.jpg
-
-- Type: Item
-  Name: St John's Hill
-  Description: |
-    St John's Hill
-  Thumbnail: 2019-10-04_13_26_29_DSC_0113.jpg
-
-- Type: Item
-  Name: St John's Hill
-  Description: |
-    St John's Hill
-  Thumbnail: 2022-10-16_09_08_10_DSC_4917_HDR.jpg
-
-- Type: Item
-  Name: Passage
-  Description: |
-    Passage (off Fish St)
-  Thumbnail: 2022-11-20_10_39_21_DSC_5460_HDR.jpg
-
-- Type: Item
-  Name: General View
-  Description: |
-    TBD
-  Thumbnail: 2022-10-16_09_34_48_DSC_4983.jpg
-
-- Type: Item
-  Name: General View
-  Description: |
-    TBD
-  Thumbnail: 2022-10-16_09_51_37_DSC_5019.jpg
-
-- Type: Item
-  Name: General View
-  Description: |
-    TBD
-  Thumbnail: 2022-10-16_09_59_40_DSC_5037.jpg
-
-- Type: Item
-  Name: General View
-  Description: |
-    TBD
-  Thumbnail: 2022-11-06_09_39_05_DSC_5162.jpg
-
-- Type: Item
-  Name: General View
-  Description: |
-    TBD
-  Thumbnail: 2022-11-06_09_55_12_DSC_5181.jpg
-
-- Type: Item
-  Name: General View
-  Description: |
-    Preaching Cross in the grounds of St Giles church.
-  Thumbnail: 2022-11-20_09_19_55_DSC_5363.jpg
-
-- Type: Item
-  Name: General View
-  Description: |
-    TBD
-  Thumbnail: 2022-11-20_09_58_05_DSC_5401.jpg
-
-- Type: Item
-  Name: General View
-  Description: |
-    TBD
-  Thumbnail: 2022-11-20_10_01_13_DSC_5403.jpg
+    65-69 Wyle Cop - late 15th Century, probably originally a dwelling. Wyle Cop - Wyle is medieval English for hill, and Cop means ‘top of’.
+  Thumbnails:
+    - Thumbnail: 2022-10-16_08_25_40_DSC_4860_HDR.jpg
+    - Thumbnail: 2022-10-16_10_02_50_DSC_5043_HDR.jpg
+    - Thumbnail: 2023-02-12_08_15_12_DSC_7582.jpg
+    - Thumbnail: 2023-03-12_07_55_24_DSC_7877.jpg
+    - Thumbnail: 2023-03-12_07_58_53_DSC_7883_HDR.jpg

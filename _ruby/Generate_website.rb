@@ -1,19 +1,11 @@
 require 'io/console'
 require 'fileutils'
-require 'inifile'
 
-file = IniFile.load(__dir__ + '/Create_Temp_Data.ini')
-data = file["Databases"]
-exes = file["EXE"]
-fils = file["Files"]
-
-Joplin = data["Joplin"]
-Shrops = data["Shropshire"]
-TempDB = data["Temp"]
-SQLite = exes["SQLite"]
-DumpFl = fils["Dump"]
-
-# File.delete(TempDB) if File.exist?(TempDB)
+Joplin = "C:/Users/small/.config/joplin-desktop/database.sqlite"
+Shrops = "C:/Users/David/Documents/OneDrive/Documents/My Documents/3. Shropshire/database/database.db"
+TempDB = "C:/Users/David/Documents/OneDrive/Documents/My Documents/3. Shropshire/database/temp/warehouse.db"
+SQLite = "C:/command/sqlite3.exe"
+DumpFl = "C:/Users/David/Documents/OneDrive/Documents/My Documents/3. Shropshire/database/temp/warehouse.sql"
 
 cmd = SQLite + " \"" + TempDB + "\" " + "\"DROP TABLE IF EXISTS folders;\"" + " .exit"
 system(cmd)
@@ -31,81 +23,84 @@ cmd = SQLite + " \"" + TempDB + "\" " + "\"DROP TABLE IF EXISTS SubImage;\"" + "
 system(cmd)
 
 puts 'Dumping folders table from Joplin database...'
-txt = ".output " + DumpFl + "\n"\
+txt = ".output \"" + DumpFl + "\"\n"\
       ".dump folders\n"\
       ".output\n"\
-      ".open " + TempDB + "\n"\
-      ".read " + DumpFl + "\n"
+      ".open \"" + TempDB + "\"\n"\
+      ".read \"" + DumpFl + "\"\n"
 File.write(__dir__ + "/Create_Temp_Data.txt", txt)
 cmd = SQLite + " \"" + Joplin + "\" < \"" + __dir__ + "/Create_Temp_Data.txt\""
 system(cmd)
 puts '...done.'
 
 puts 'Dumping notes table from Joplin database...'
-txt = ".output " + DumpFl + "\n"\
+txt = ".output \"" + DumpFl + "\"\n"\
       ".dump notes\n"\
       ".output\n"\
-      ".open " + TempDB + "\n"\
-      ".read " + DumpFl + "\n"
+      ".open \"" + TempDB + "\"\n"\
+      ".read \"" + DumpFl + "\"\n"
 File.write(__dir__ + "/Create_Temp_Data.txt", txt)
 cmd = SQLite + " \"" + Joplin + "\" < \"" + __dir__ + "/Create_Temp_Data.txt\""
 system(cmd)
 puts '...done.'
 
 puts 'Dumping tags table from Joplin database...'
-txt = ".output " + DumpFl + "\n"\
+txt = ".output \"" + DumpFl + "\"\n"\
       ".dump tags\n"\
       ".output\n"\
-      ".open " + TempDB + "\n"\
-      ".read " + DumpFl + "\n"
+      ".open \"" + TempDB + "\"\n"\
+      ".read \"" + DumpFl + "\"\n"
 File.write(__dir__ + "/Create_Temp_Data.txt", txt)
 cmd = SQLite + " \"" + Joplin + "\" < \"" + __dir__ + "/Create_Temp_Data.txt\""
 system(cmd)
 puts '...done.'
 
 puts 'Dumping note_tags table from Joplin database...'
-txt = ".output " + DumpFl + "\n"\
+txt = ".output \"" + DumpFl + "\"\n"\
       ".dump note_tags\n"\
       ".output\n"\
-      ".open " + TempDB + "\n"\
-      ".read " + DumpFl + "\n"
+      ".open \"" + TempDB + "\"\n"\
+      ".read \"" + DumpFl + "\"\n"
 File.write(__dir__ + "/Create_Temp_Data.txt", txt)
 cmd = SQLite + " \"" + Joplin + "\" < \"" + __dir__ + "/Create_Temp_Data.txt\""
 system(cmd)
 puts '...done.'
 
 puts 'Dumping GoogleMap table from Shropshire database...'
-txt = ".output " + DumpFl + "\n"\
+txt = ".output \"" + DumpFl + "\"\n"\
       ".dump GoogleMap\n"\
       ".output\n"\
-      ".open " + TempDB + "\n"\
-      ".read " + DumpFl + "\n"
+      ".open \"" + TempDB + "\"\n"\
+      ".read \"" + DumpFl + "\"\n"
 File.write(__dir__ + "/Create_Temp_Data.txt", txt)
 cmd = SQLite + " \"" + Shrops + "\" < \"" + __dir__ + "/Create_Temp_Data.txt\""
 system(cmd)
 puts '...done.'
 
 puts 'Dumping Photo table from Shropshire database...'
-txt = ".output " + DumpFl + "\n"\
+txt = ".output \"" + DumpFl + "\"\n"\
       ".dump Photo\n"\
       ".output\n"\
-      ".open " + TempDB + "\n"\
-      ".read " + DumpFl + "\n"
+      ".open \"" + TempDB + "\"\n"\
+      ".read \"" + DumpFl + "\"\n"
 File.write(__dir__ + "/Create_Temp_Data.txt", txt)
 cmd = SQLite + " \"" + Shrops + "\" < \"" + __dir__ + "/Create_Temp_Data.txt\""
 system(cmd)
 puts '...done.'
 
 puts 'Dumping SubImage table from Shropshire database...'
-txt = ".output " + DumpFl + "\n"\
+txt = ".output \"" + DumpFl + "\"\n"\
       ".dump SubImage\n"\
       ".output\n"\
-      ".open " + TempDB + "\n"\
-      ".read " + DumpFl + "\n"
+      ".open \"" + TempDB + "\"\n"\
+      ".read \"" + DumpFl + "\"\n"
 File.write(__dir__ + "/Create_Temp_Data.txt", txt)
 cmd = SQLite + " \"" + Shrops + "\" < \"" + __dir__ + "/Create_Temp_Data.txt\""
 system(cmd)
 puts '...done.'
+
+File.delete(DumpFl) if File.exist?(DumpFl)
+File.delete(__dir__ + "/Create_Temp_Data.txt") if File.exist?(__dir__ + "/Create_Temp_Data.txt")
 
 puts "Running SQL script..."
 txt = "DELETE FROM exp_churches;\n"
@@ -139,6 +134,7 @@ txt = txt + "UPDATE exp_churches SET status_not_yet_visited = 1 WHERE note_id IN
 File.write(__dir__ + "/Transform_SQL.sql", txt)
 cmd = SQLite + " \"" + TempDB + "\" < \"" + __dir__ + "/Transform_SQL.sql\""
 system(cmd)
+File.delete(__dir__ + "/Transform_SQL.sql") if File.exist?(__dir__ + "/Transform_SQL.sql")
 puts '...done.'
 
 _BaseFolder = 'C:\Users\David\Documents\OneDrive\Documents\My Documents\GitHub\salop'
@@ -149,6 +145,7 @@ require _BaseFolder + '\_ruby\generate_churches.rb'
 require _BaseFolder + '\_ruby\generate_churches_status.rb'
 require _BaseFolder + '\_ruby\generate_churches_grade.rb'
 require _BaseFolder + '\_ruby\generate_churches_saint.rb'
+require _BaseFolder + '\_ruby\generate_place.rb'
 Dir.chdir(_BaseFolder + '\_ruby') do
     generate_recents()
     generate_churches(TempDB)
@@ -156,6 +153,12 @@ Dir.chdir(_BaseFolder + '\_ruby') do
     generate_churches_status(TempDB)
     generate_churches_grade(TempDB)
     generate_churches_saint(TempDB)
+    generate_place(TempDB, "Bridgnorth")
+    generate_place(TempDB, "Ludlow")
+    generate_place(TempDB, "Oswestry")
+    generate_place(TempDB, "Shrewsbury")
+    generate_place(TempDB, "Telford")
+    generate_place(TempDB, "Whitchurch")
 end
 
 system('jekyll build --verbose --config _config.yml', chdir: _BaseFolder + '\1shropshire\updates')

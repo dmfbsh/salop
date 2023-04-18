@@ -7,28 +7,40 @@ title: Towns of Shropshire
 
 {% assign numrecs = 0 %}
 
+{% for item in site.data.Shropshire_Notebook-Bridgnorth %}
+  {% if item.Type == "Header" %}
 <div>
 <div class="container">
 <div class="row">
 <div class="col-md-12">
-<h2>Bridgnorth</h2>
-<p>The earliest mention of Bridgnorth in historical records was in 895 when the Danes set up a camp at ‘Cwatbridge’. In 912 Ethelfleda, the lady of Mercia and King Alfred’s daughter, built a castle at ‘Bridge’.</p>
-<p>The same year, Roger de Montgomery founded a church at Quatford dedicated to St Mary Magdalene. Robert de Belleme, son of Roger, succeeded as Earl in 1098 and in 1101 he transferred both church and borough to a more defendable site at Bridgnorth.</p>
+<h2>{{ item.Title }}</h2>
+{{ item.Description | markdownify }}
 </div>
 </div>
 </div>
 </div>
+  {% endif %}
 
-{% assign orientation = "unknown" %}
-
-{% for item in site.data.Shropshire_Notebook-Bridgnorth %}
-  {% assign numrecs = numrecs | plus: 1 %}
   {% if item.Type == "Item" %}
+<div>
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<hr>
+<h3>{{ item.Title }}</h3>
+{{ item.Description | markdownify }}
+</div>
+</div>
+</div>
+</div>
+  {% assign orientation = "unknown" %}
+  {% for thumb in item.Thumbnails %}
+  {% assign numrecs = numrecs | plus: 1 %}
+
     {% if orientation == "left" %}
       {% assign orientation = "right" %}
 <div class="col-md-6">
-<img class="imgc" src="assets/images/places/{{ item.Thumbnail }}">
-{{ item.Description | markdownify }}
+<img class="imgc" src="assets/images/places/{{ thumb.Thumbnail }}">
 </div>
 </div>
 </div>
@@ -39,12 +51,11 @@ title: Towns of Shropshire
 <div class="container">
 <div class="row" data-aos="fade-up" data-aos-duration="500">
 <div class="col-md-6">
-<img class="imgc" src="assets/images/places/{{ item.Thumbnail }}">
-{{ item.Description | markdownify }}
+<img class="imgc" src="assets/images/places/{{ thumb.Thumbnail }}">
 </div>
     {% endif %}
-  {% endif %}
-{% endfor %}
+
+  {% endfor %}
 {% if orientation == "left" %}
 <div class="col-md-6">
 </div>
@@ -52,5 +63,9 @@ title: Towns of Shropshire
 </div>
 </div>
 {% endif %}
+  {% endif %}
+
+{% endfor %}
+
 
 {% include 1-footer-bs.html %}

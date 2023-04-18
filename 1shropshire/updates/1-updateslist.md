@@ -1,5 +1,12 @@
 ---
 ---
+## 18 Apr 2023
+Added the following items:
+
+- Shrewsbury - Mardol x 3
+
+Updated the Places pages.
+
 ## 08 Apr 2023
 Added the following items:
 

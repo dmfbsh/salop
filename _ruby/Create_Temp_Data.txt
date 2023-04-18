@@ -1,5 +1,0 @@
-.output C:/command/Temp/dump.sql
-.dump SubImage
-.output
-.open C:/command/Temp/database.db
-.read C:/command/Temp/dump.sql

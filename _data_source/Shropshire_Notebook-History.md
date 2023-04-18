@@ -1149,7 +1149,7 @@ Built when Millichope Park was owned by the wealthy rector of Church Stretton.  
 Originally Thomas Southam & Son of Wyle Cop (and having an excellent reputation as wine merchants), the company was taken over by Tanners in 1936.
 
 Tanners itself was established in 1872 by sea captain William Tanner and his brother - the cellars were those of the now demolished Victorian Market Hall and the offices were in Shoplatch.
-![](../1shropshire/assets/images/history/2022-10-16_08_56_03_DSC_4896_HDR.jpg)
+![](../1shropshire/assets/images/history/2022-10-16_08_56_03_DSC_4896.jpg)
 
 # Name: Shropshire Union Railways and Canal Company Formed
 - Date: 1846 AD
