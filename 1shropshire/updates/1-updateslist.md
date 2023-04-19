@@ -7,6 +7,8 @@ Added the following items:
 
 Updated the Places pages.
 
+Batch added several Shrwsbury photos.
+
 ## 08 Apr 2023
 Added the following items:
 

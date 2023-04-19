@@ -34,7 +34,7 @@ desc.each { |txt|
 }
 
 lastplace = "none"
-places = db.query "SELECT LatLong, Title, Description, OrigName FROM Photo WHERE Name LIKE '" + pPlace + "%' AND Category1 = 'Place' ORDER BY Title"
+places = db.query "SELECT LatLong, Title, Description, OrigName, Category1 FROM Photo WHERE Name LIKE '" + pPlace + "%' AND (Category1 = 'Place' OR Category1 = 'History') AND Title <> '' ORDER BY Title"
 places.each { |place|
   if lastplace != place[1]
     if lastplace != "none"
@@ -63,6 +63,11 @@ places.each { |place|
     dsth.write("  Thumbnails:\n")
   end
   thumb = File.basename(place[3], ".*") + ".jpg"
+  if place[4] == "History"
+    thumb = "history/" + thumb
+  else
+    thumb = "places/" + thumb
+  end
   dsth.write("    - Thumbnail: " + thumb + "\n")
 }
 
