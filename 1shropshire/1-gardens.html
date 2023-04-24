@@ -13,7 +13,7 @@ title: Gardens of Shropshire
     {% if orientation == "left" %}
       {% assign orientation = "right" %}
 <div class="col-md-6">
-<h3>{{ item.Name }}</h3>
+<h3>{{ item.Title }}</h3>
 <img class="imgc" src="assets/images/gardens/{{ item.Thumbnail }}">
 <p>&nbsp;</p>{{ item.Description | markdownify }}
 </div>
@@ -26,7 +26,7 @@ title: Gardens of Shropshire
 <div class="container">
 <div class="row" data-aos="fade-up" data-aos-duration="500">
 <div class="col-md-6">
-<h3>{{ item.Name }}</h3>
+<h3>{{ item.Title }}</h3>
 <img class="imgc" src="assets/images/gardens/{{ item.Thumbnail }}">
 <p>&nbsp;</p>{{ item.Description | markdownify }}
 </div>

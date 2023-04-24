@@ -146,6 +146,11 @@ require _BaseFolder + '\_ruby\generate_churches_status.rb'
 require _BaseFolder + '\_ruby\generate_churches_grade.rb'
 require _BaseFolder + '\_ruby\generate_churches_saint.rb'
 require _BaseFolder + '\_ruby\generate_place.rb'
+require _BaseFolder + '\_ruby\generate_people.rb'
+require _BaseFolder + '\_ruby\generate_gardens.rb'
+require _BaseFolder + '\_ruby\generate_houses.rb'
+require _BaseFolder + '\_ruby\generate_castles.rb'
+require _BaseFolder + '\_ruby\generate_folklore.rb'
 Dir.chdir(_BaseFolder + '\_ruby') do
     generate_recents()
     generate_churches(TempDB)
@@ -159,6 +164,11 @@ Dir.chdir(_BaseFolder + '\_ruby') do
     generate_place(TempDB, "Shrewsbury")
     generate_place(TempDB, "Telford")
     generate_place(TempDB, "Whitchurch")
+    generate_people(TempDB)
+    generate_gardens(TempDB)
+    generate_houses(TempDB)
+    generate_castles(TempDB)
+    generate_folklore(TempDB)
 end
 
 system('jekyll build --verbose --config _config.yml', chdir: _BaseFolder + '\1shropshire\updates')

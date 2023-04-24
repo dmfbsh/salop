@@ -1,0 +1,36 @@
+[{
+  "Type": "Header",
+  "Title": "Whitchurch",
+  "Description": "The site of modern-day Whitchurch was determined by the Romans when they picked it as a location for a military fort.  This was because it was midway along the route from Chester to Wroxeter.  The fort later developed into a Roman civilian town called Mediolanum, meaning 'middle of the plain'.
+
+In Saxon times the settlement was known as Westune, meaning 'the western village', and a wooden church dedicated to St Alkmund was built.  The great road from London to Chester that ran through Whitchurch became known as Watling Street at this time.
+
+After the Norman conquest William de Warenne was awarded Westune. He was responsible for building a new church circa 1085 AD.  It was either constructed out of white Grinshill stone or was painted white and led to the town being known as Album Monasterium, 'white minster' in Latin.  There are suggestions that monks lived close to the church and the town could have been a religious centre.
+
+By the thirteenth century Whytchurch had developed into a small market town with a weekly market and an annual fair serving its local agricultural community.  At the beginning of the 15th century Whitchurch was very much a border town, being frequently raided by the Welsh. In 1404 the centre of the town was burned and pillaged."
+},
+{
+  "Type": "Item",
+  "Title": "High Street",
+  "LatLong": "52.969547, -2.684206",
+  "Description": "The High Street.",
+  "Thumbnails": [
+    {
+      "Thumbnail": "places/2019-10-12_14_39_35_DSC_5384.jpg"
+    },
+   ]
+},
+{
+  "Type": "Item",
+  "Title": "Town Clock",
+  "LatLong": "52.968895, -2.683344",
+  "Description": "Whitchuch is a ‘Town of Clocks’ - clocks used to be made hee by the firm J B Joyce.
+
+This clock in the centre of the town was made by J B Joyce and installed in 1994.  One side says ‘Album Monasteium’, a latin vesion of the name Whitchuch or White Chuch. Another side says ‘Roman Mediolanum’, which was a fort and small town in the Roman province of Britannia - today it is known as Whitchuch.",
+  "Thumbnails": [
+    {
+      "Thumbnail": "places/2019-10-12_13_40_14_DSC_5383.jpg"
+    },
+   ]
+}
+]
