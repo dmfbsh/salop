@@ -1,5 +1,12 @@
 ---
 ---
+## 02 May 2023
+Added the following items:
+
+- Kemberton church
+- Caughley China Works
+- Coalport Ferry
+
 ## 24 Apr 2023
 Restructuring and reformatting various pages.
 

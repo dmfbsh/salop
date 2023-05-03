@@ -923,6 +923,12 @@ A bridge is known to have stood at this spot since at least Norman times.  A bri
 A new design for the bridge was put forward in 1921, the intention being to widen the bridge and reduce its height.  The new bridge re-used the original masonry, as well as some new stonework.
 ![](../1shropshire/assets/images/history/2018-11-02_14_16_26_DSC_2950.jpg)
 
+# Name: Caughley - China Works
+- Date: 1775 to 1799 AD
+
+From around 1775 to 1799, at Caughley near Broseley, Ambrose Gallimore and Thomas Turner produced some of the finest soft-paste porcelain made in England in the 18th Century.  Many shapes and patterns were produced, in the main useful wares: tea services, dinner services, and everyday objects that would be used in the households of the then-emerging middle classes.  The porcelain was decorated largely in underglaze blue, although enamel colours and gilding were also used.  Today, Caughley porcelain is highly collectable and much sought after.
+![](../1shropshire/assets/images/history/2023-04-30_14_12_22_DSC03497.jpg)
+
 # Name: The Iron Bridge, Ironbridge
 - Date: 1781 AD
 
@@ -1024,6 +1030,17 @@ The first iron-framed building in the world - as such it is considered to be the
 
 The flax mill closed in 1886, it was sold and converted to a maltings and continued to operate as such until 1987.
 ![](../1shropshire/assets/images/history/2018-10-06_14_13_56_DSC01944.jpg)
+
+# Name: Coalport Ferry
+- Date: 23rd October 1799 AD
+
+In the evening of 23rd October 1799, a ferry boat carrying 43 Coalport China Factory workers started out to cross the River Severn between Jackfield and Colaport in the dark and thick fog.
+
+Halfway across the river the ferry capsized and 28 men, women and children drowned. The 43 workers had left the china works at 9pm after an extra shift and walked alongside the canal to a ferry boat provided by Richard Reynolds to cross the Severn to the south bank to get to their homes in Jackfield and Broseley.
+
+Mr. Rose of Rose and Company, had previously closed the china works at Caughley and Broseley and amalgamated the work forces to work at a new works in Coalport, hence the need for a passage or ferry boat.
+![](../1shropshire/assets/images/history/2023-04-30_11_40_41_DSC03493.jpg)
+
 
 # Name: The Rotunda, Ironbridge
 - Date: 1790s AD
