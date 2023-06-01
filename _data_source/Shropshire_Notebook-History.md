@@ -1326,6 +1326,16 @@ Henry Eckford was a Scottish horticulturist and reputedly the most famous breede
 
 Salop County Council is set up following the Local Government Act 1888.
 
+# Name: Stokesay Court
+- Date: 1889 - 1892 AD
+
+Stokesay Court was built for John Derby Allcroft.  Allcroft made his fortune as a glover, but he was also a philanthropist, Christian evangelist and church-builder, and member of parliament.
+
+Work to build Stokesay Court lasted from 1889 to 1892.  The house was one of England's first to have integral electric light, installed by Edmundsons in 1891.
+
+The house has been described as 'the most grandiloquent Victorian mansion in the county'.
+![](../1shropshire/assets/images/history/2023-05-21_15_38_53_DSC_9287.jpg)
+
 # Name: Bridgnorth Cliff Railway
 - Date: 1891 AD
 

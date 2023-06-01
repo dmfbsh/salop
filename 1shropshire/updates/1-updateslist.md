@@ -1,5 +1,15 @@
 ---
 ---
+## 01 Jun 2023
+Added the following items:
+
+- Stokesay Court
+- Milson church
+- Habberley church
+- The Hollies x 3
+- Brook Vessons x 4
+- Snailbeach Mine x 2
+
 ## 02 May 2023
 Added the following items:
 

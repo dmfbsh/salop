@@ -42,6 +42,32 @@ TBD
 The River Teme as seen from Offa's Dyke near Knighton.
 ![](../1shropshire/assets/images/landscape/2019-03-23_14_05_56_DSC_3559.jpg)
 
+# Intro: Brook Vessons and The Paddock
+
+Perhaps the strangest thing about Brook Vessons is its cluster of giant trees. Within just 100 metres are some of the broadest rowans in Britain; the biggest birch in Shropshire; the biggest holly in Shropshire and the county’s biggest crab apple tree.
+
+It lies on the edge of The Paddock – a village that grew up with the local mining industry as people took on smallholdings to supplement their income. It was finally abandoned early in the 20th century, when the industry declined, but the remnants of field and cottage walls remain.
+
+# Name: Brook Vessons
+
+TBD
+![](../1shropshire/assets/images/landscape/2023-05-13_10_49_14_DSC_9068_HDR.jpg)
+
+# Name: Brook Vessons
+
+TBD
+![](../1shropshire/assets/images/landscape/2023-05-13_11_06_35_DSC_9090_HDR.jpg)
+
+# Name: Brook Vessons
+
+TBD
+![](../1shropshire/assets/images/landscape/2023-05-13_11_25_19_DSC_9106.jpg)
+
+# Name: Brook Vessons
+
+TBD
+![](../1shropshire/assets/images/landscape/2023-05-13_11_42_51_DSC_9120.jpg)
+
 # Intro: Caer Caradoc
 
 TBD
@@ -90,6 +116,21 @@ TBD
 
 TBD
 ![](../1shropshire/assets/images/landscape/2020-09-11_13_56_41_DSC_8369.jpg)
+
+# Name: The Hollies
+
+TBD
+![](../1shropshire/assets/images/landscape/2023-05-13_09_45_32_DSC_9014.jpg)
+
+# Name: The Hollies
+
+TBD
+![](../1shropshire/assets/images/landscape/2023-05-13_09_54_46_DSC_9020_HDR.jpg)
+
+# Name: The Hollies
+
+TBD
+![](../1shropshire/assets/images/landscape/2023-05-13_10_05_20_DSC_9028.jpg)
 
 # Intro: Hope Bowdler Hill
 

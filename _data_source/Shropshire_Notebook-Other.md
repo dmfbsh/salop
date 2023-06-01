@@ -1,5 +1,15 @@
 # 2023
 
+## Name: Snailbeach Lead Mine
+
+TBD
+![](../1shropshire/assets/images/other/2023-05-13_08_32_14_DSC_8951_bw.jpg)
+
+## Name: Snailbeach Lead Mine
+
+TBD
+![](../1shropshire/assets/images/other/2023-05-13_08_17_10_DSC_8941_bw.jpg)
+
 ## Name: Shipton Church
 
 The snowdrops and celandine at Shipton church.
