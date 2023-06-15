@@ -1,5 +1,12 @@
 ---
 ---
+## 15 Jun 2023
+Added the following items:
+
+- Shrewsbury x 30
+
+Updated Wem church.
+
 ## 01 Jun 2023
 Added the following items:
 

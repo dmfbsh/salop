@@ -107,6 +107,9 @@ The town was scarcely bombed in World War II.  The town played a role in the Col
     {
       "Thumbnail": "places/2023-02-26_09_45_15_DSC_7845_HDR.jpg"
     },
+    {
+      "Thumbnail": "places/2023-05-07_07_04_20_DSC_8765.jpg"
+    },
    ]
 },
 {
@@ -124,6 +127,15 @@ The town was scarcely bombed in World War II.  The town played a role in the Col
     {
       "Thumbnail": "places/2023-04-09_07_28_06_DSC_8365_HDR.jpg"
     },
+    {
+      "Thumbnail": "places/2023-05-07_06_35_20_DSC_8708_HDR.jpg"
+    },
+    {
+      "Thumbnail": "places/2023-05-07_06_39_02_DSC_8723.jpg"
+    },
+    {
+      "Thumbnail": "places/2023-05-07_07_30_21_DSC_8810_HDR.jpg"
+    },
    ]
 },
 {
@@ -134,6 +146,9 @@ The town was scarcely bombed in World War II.  The town played a role in the Col
   "Thumbnails": [
     {
       "Thumbnail": "places/2023-04-09_07_16_18_DSC_8335_HDR.jpg"
+    },
+    {
+      "Thumbnail": "places/2023-05-07_06_22_41_DSC_8687_HDR.jpg"
     },
    ]
 },
@@ -178,6 +193,20 @@ The town was scarcely bombed in World War II.  The town played a role in the Col
   "Thumbnails": [
     {
       "Thumbnail": "places/2023-04-09_07_23_13_DSC_8356_HDR.jpg"
+    },
+    {
+      "Thumbnail": "places/2023-05-07_06_30_45_DSC_8705.jpg"
+    },
+   ]
+},
+{
+  "Type": "Item",
+  "Title": "Dogpole",
+  "LatLong": "",
+  "Description": "TBD",
+  "Thumbnails": [
+    {
+      "Thumbnail": "places/2023-05-07_07_09_55_DSC_8774_HDR.jpg"
     },
    ]
 },
@@ -373,6 +402,28 @@ The town was scarcely bombed in World War II.  The town played a role in the Col
 },
 {
   "Type": "Item",
+  "Title": "KSLI Memorial",
+  "LatLong": "",
+  "Description": "TBD",
+  "Thumbnails": [
+    {
+      "Thumbnail": "places/2023-05-07_07_28_39_DSC_8807.jpg"
+    },
+   ]
+},
+{
+  "Type": "Item",
+  "Title": "Kingsland Bridge",
+  "LatLong": "",
+  "Description": "TBD",
+  "Thumbnails": [
+    {
+      "Thumbnail": "places/2023-05-07_08_18_06_DSC_8855.jpg"
+    },
+   ]
+},
+{
+  "Type": "Item",
   "Title": "Lauras Tower",
   "LatLong": "",
   "Description": "TBD",
@@ -452,6 +503,17 @@ The town was scarcely bombed in World War II.  The town played a role in the Col
 },
 {
   "Type": "Item",
+  "Title": "Pengwern Boat Club",
+  "LatLong": "",
+  "Description": "TBD",
+  "Thumbnails": [
+    {
+      "Thumbnail": "places/2023-05-07_08_36_44_DSC_8877.jpg"
+    },
+   ]
+},
+{
+  "Type": "Item",
   "Title": "Port Hill Bridge",
   "LatLong": "",
   "Description": "TBD",
@@ -469,12 +531,34 @@ The town was scarcely bombed in World War II.  The town played a role in the Col
 },
 {
   "Type": "Item",
+  "Title": "Pride Hill",
+  "LatLong": "",
+  "Description": "TBD",
+  "Thumbnails": [
+    {
+      "Thumbnail": "places/2023-05-07_06_44_02_DSC_8732.jpg"
+    },
+   ]
+},
+{
+  "Type": "Item",
   "Title": "Princess Street",
   "LatLong": "",
   "Description": "TBD",
   "Thumbnails": [
     {
       "Thumbnail": "places/2023-03-12_08_18_55_DSC_7922.jpg"
+    },
+   ]
+},
+{
+  "Type": "Item",
+  "Title": "River Severn",
+  "LatLong": "",
+  "Description": "TBD",
+  "Thumbnails": [
+    {
+      "Thumbnail": "places/2023-05-07_08_58_24_DSC_8885.jpg"
     },
    ]
 },
@@ -494,12 +578,29 @@ The town was scarcely bombed in World War II.  The town played a role in the Col
 },
 {
   "Type": "Item",
+  "Title": "School Boat Club",
+  "LatLong": "",
+  "Description": "TBD",
+  "Thumbnails": [
+    {
+      "Thumbnail": "places/2023-05-07_08_40_48_DSC_8881.jpg"
+    },
+   ]
+},
+{
+  "Type": "Item",
   "Title": "School Gardens",
   "LatLong": "",
   "Description": "TBD",
   "Thumbnails": [
     {
       "Thumbnail": "places/2023-04-09_09_24_38_DSC_8546_HDR.jpg"
+    },
+    {
+      "Thumbnail": "places/2023-05-07_06_51_05_DSC_8747.jpg"
+    },
+    {
+      "Thumbnail": "places/2023-05-07_06_59_27_DSC_8759_HDR.jpg"
     },
    ]
 },
@@ -574,6 +675,9 @@ The town was scarcely bombed in World War II.  The town played a role in the Col
     {
       "Thumbnail": "places/2022-12-28_17_39_05_DSC_5827-Edit-001.jpg"
     },
+    {
+      "Thumbnail": "places/2023-05-07_07_26_43_DSC_8801_HDR.jpg"
+    },
    ]
 },
 {
@@ -610,6 +714,15 @@ The town was scarcely bombed in World War II.  The town played a role in the Col
     {
       "Thumbnail": "places/2023-04-09_06_55_40_DSC_8290_HDR.jpg"
     },
+    {
+      "Thumbnail": "places/2023-05-07_06_10_50_DSC_8680.jpg"
+    },
+    {
+      "Thumbnail": "places/2023-05-07_06_11_56_DSC_8681.jpg"
+    },
+    {
+      "Thumbnail": "places/2023-05-07_07_17_08_DSC_8786.jpg"
+    },
    ]
 },
 {
@@ -620,6 +733,17 @@ The town was scarcely bombed in World War II.  The town played a role in the Col
   "Thumbnails": [
     {
       "Thumbnail": "places/2023-02-26_09_43_53_DSC_7839.jpg"
+    },
+   ]
+},
+{
+  "Type": "Item",
+  "Title": "St Marys Close",
+  "LatLong": "",
+  "Description": "TBD",
+  "Thumbnails": [
+    {
+      "Thumbnail": "places/2023-05-07_07_07_13_DSC_8771_HDR.jpg"
     },
    ]
 },
@@ -769,6 +893,15 @@ The town was scarcely bombed in World War II.  The town played a role in the Col
   "Thumbnails": [
     {
       "Thumbnail": "history/2022-11-06_10_31_25_DSC_5204.jpg"
+    },
+    {
+      "Thumbnail": "places/2023-05-07_08_29_50_DSC_8870.jpg"
+    },
+    {
+      "Thumbnail": "places/2023-05-07_08_30_38_DSC_8873.jpg"
+    },
+    {
+      "Thumbnail": "places/2023-05-07_08_37_32_DSC_8878.jpg"
     },
    ]
 },
@@ -935,6 +1068,9 @@ Shropshire has rocks from more periods of geology than anywhere else in the worl
     {
       "Thumbnail": "history/2023-02-05_09_55_52_DSC_7493.jpg"
     },
+    {
+      "Thumbnail": "places/2023-05-07_07_40_24_DSC_8834.jpg"
+    },
    ]
 },
 {
@@ -1065,6 +1201,9 @@ Shropshire has rocks from more periods of geology than anywhere else in the worl
     },
     {
       "Thumbnail": "places/2023-04-09_07_20_03_DSC_8344_HDR.jpg"
+    },
+    {
+      "Thumbnail": "places/2023-05-07_06_24_43_DSC_8693_HDR.jpg"
     },
    ]
 },
@@ -1201,6 +1340,17 @@ The centre of the rotunda is occupied by a bronze statue of Saint Michael depict
 },
 {
   "Type": "Item",
+  "Title": "Town Walls",
+  "LatLong": "",
+  "Description": "TBD",
+  "Thumbnails": [
+    {
+      "Thumbnail": "places/2023-05-07_07_22_12_DSC_8795.jpg"
+    },
+   ]
+},
+{
+  "Type": "Item",
   "Title": "Town Walls Tower",
   "LatLong": "",
   "Description": "TBD",
@@ -1259,6 +1409,17 @@ The centre of the rotunda is occupied by a bronze statue of Saint Michael depict
 },
 {
   "Type": "Item",
+  "Title": "Unknown Shut - Hills Ln to Mardol",
+  "LatLong": "",
+  "Description": "TBD",
+  "Thumbnails": [
+    {
+      "Thumbnail": "places/2023-05-07_07_37_22_DSC_8825_HDR.jpg"
+    },
+   ]
+},
+{
+  "Type": "Item",
   "Title": "View from Greyfriars Bridge",
   "LatLong": "",
   "Description": "TBD",
@@ -1296,6 +1457,9 @@ The centre of the rotunda is occupied by a bronze statue of Saint Michael depict
     },
     {
       "Thumbnail": "places/2023-02-12_09_23_23_DSC_7649-Edit-001.jpg"
+    },
+    {
+      "Thumbnail": "places/2023-05-07_08_01_08_DSC_8840.jpg"
     },
    ]
 },
@@ -1337,6 +1501,12 @@ The centre of the rotunda is occupied by a bronze statue of Saint Michael depict
     },
     {
       "Thumbnail": "places/2023-04-09_07_04_30_DSC_8308_HDR.jpg"
+    },
+    {
+      "Thumbnail": "places/2023-05-07_06_13_52_DSC_8683.jpg"
+    },
+    {
+      "Thumbnail": "places/2023-05-07_07_14_32_DSC_8780.jpg"
     },
    ]
 }

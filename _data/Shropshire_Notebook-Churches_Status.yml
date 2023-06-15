@@ -1,7 +1,7 @@
 AllVisited: 197
 AllNotVisited: 120
 AllInside: 174
-AllInsidePhoto: 150
+AllInsidePhoto: 151
 AllNotInside: 42
 AllPlanned: 38
 AllNotYet: 82
@@ -831,7 +831,7 @@ Churches:
     Col3: 
     Col4: 
     Col5: 
-  - Col1: Wem, St Peter and St Paul (Lichfield) - see note 2
+  - Col1: Wem, St Peter and St Paul (Lichfield)
     Col2: 
     Col3: 
     Col4: 
@@ -881,8 +881,8 @@ Churches:
     Col3: 
     Col4: 
     Col5: 
-RevisitCount2: 5
+RevisitCount2: 4
 RevisitCount3: 19
-RevisitCount4: 169
+RevisitCount4: 170
 RevisitCount5: 23
-RevisitCount6: 24
+RevisitCount6: 23
