@@ -1,9 +1,12 @@
 ---
 ---
-## 15 Jun 2023
+## 21 Jun 2023
 Added the following items:
 
 - Shrewsbury x 30
+- Sir Edward German
+- Lord John Talbot
+- Leaton church
 
 Updated Wem church.
 

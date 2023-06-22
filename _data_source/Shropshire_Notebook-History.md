@@ -546,6 +546,12 @@ The Golden Cross is the oldest pub in Shrewsbury that has operated continuously 
 The name Golden Cross was recorded in 1780, it was also known as the Sextry (Sacristy) because the church plate and vestments for St Chads were kept here. The pub was probably originally owned by the church.
 ![](../1shropshire/assets/images/history/2023-02-05_10_29_26_DSC_7529.jpg)
 
+# Name: Lord John Talbot Killed in Battle
+- Date: 1453 AD
+
+Lord John Talbot, First Earl of Shrewsbury, was born at Blakemere just outside Whitchurch in 1373.  He was a fine soldier, described by Shakespeare as the 'scourge of France' in Henry VI, Part I.  He died at Castillon after the battle of Bordeaux in 1453.  His heart was embalmed separately and placed under the church porch of St Alkmunds, Whitchurch.
+![](../1shropshire/assets/images/history/2023-06-03_13_05_36_DSC_9319.jpg)
+
 # Header: 1455-85 AD
 
 ## Wars of the Roses
@@ -1203,6 +1209,12 @@ Holy Cross is the name of the local parish, and Shrewsbury's Abbey church, which
 
 The viaduct was built in the 1860s across Loamhole Brook and the Upper Furnace Pool to take the railway line from Lightmoor to Buildwas.
 ![](../1shropshire/assets/images/history/2016-05-08_11_31_07_DSC_0010.jpg)
+
+# Name: Sir Edward German Born
+- Date: 17 February 1862 AD
+
+Sir Edward German was born in Whitchurch, he was an English musician and composer of Welsh descent, best remembered for his extensive output of incidental music for the stage and as a successor to Arthur Sullivan in the field of English comic opera.
+![](../1shropshire/assets/images/history/2023-06-03_13_12_34_DSC_9324_HDR.jpg)
 
 # Name: Bridgnorth Station
 - Date: 1862 AD
