@@ -38,6 +38,33 @@ The town was scarcely bombed in World War II.  The town played a role in the Col
 },
 {
   "Type": "Item",
+  "Title": "Arts Festival 2023",
+  "LatLong": "",
+  "Description": "The Arts Festival in 2023 included some sculptures by Salvador Dali.
+
+Surrealist Piano, outside Shrewsbury Castle.
+
+Chandler's Poise and Tension, in The Dingle's Pond in The Quarry.",
+  "Thumbnails": [
+    {
+      "Thumbnail": "places/2023-06-04_07_55_35_DSC_9351.jpg"
+    },
+    {
+      "Thumbnail": "places/2023-06-04_08_00_28_DSC_9358.jpg"
+    },
+    {
+      "Thumbnail": "places/2023-06-04_08_55_53_DSC_9467.jpg"
+    },
+    {
+      "Thumbnail": "places/2023-06-04_09_03_48_DSC_9486_HDR.jpg"
+    },
+    {
+      "Thumbnail": "places/2023-06-04_09_05_02_DSC_9492.jpg"
+    },
+   ]
+},
+{
+  "Type": "Item",
   "Title": "Barracks Passage",
   "LatLong": "",
   "Description": "Runs from Wyle Cop to Belmont Bank, alongside the Henry Tudor House.",
@@ -136,6 +163,9 @@ The town was scarcely bombed in World War II.  The town played a role in the Col
     {
       "Thumbnail": "places/2023-05-07_07_30_21_DSC_8810_HDR.jpg"
     },
+    {
+      "Thumbnail": "places/2023-06-04_09_21_52_DSC_9510_HDR.jpg"
+    },
    ]
 },
 {
@@ -160,6 +190,9 @@ The town was scarcely bombed in World War II.  The town played a role in the Col
   "Thumbnails": [
     {
       "Thumbnail": "history/2022-11-06_09_13_56_DSC_5129.jpg"
+    },
+    {
+      "Thumbnail": "places/2023-06-04_09_51_24_DSC_9533.jpg"
     },
    ]
 },
@@ -723,6 +756,9 @@ The town was scarcely bombed in World War II.  The town played a role in the Col
     {
       "Thumbnail": "places/2023-05-07_07_17_08_DSC_8786.jpg"
     },
+    {
+      "Thumbnail": "places/2023-06-04_07_30_45_DSC_9343.jpg"
+    },
    ]
 },
 {
@@ -799,6 +835,9 @@ The town was scarcely bombed in World War II.  The town played a role in the Col
   "Thumbnails": [
     {
       "Thumbnail": "history/2022-10-16_08_56_03_DSC_4896.jpg"
+    },
+    {
+      "Thumbnail": "places/2023-06-04_09_44_37_DSC_9532.jpg"
     },
    ]
 },
@@ -1205,6 +1244,9 @@ Shropshire has rocks from more periods of geology than anywhere else in the worl
     {
       "Thumbnail": "places/2023-05-07_06_24_43_DSC_8693_HDR.jpg"
     },
+    {
+      "Thumbnail": "places/2023-06-04_07_38_59_DSC_9344_HDR.jpg"
+    },
    ]
 },
 {
@@ -1269,6 +1311,9 @@ Shropshire has rocks from more periods of geology than anywhere else in the worl
     },
     {
       "Thumbnail": "places/2023-04-09_08_00_40_DSC_8409.jpg"
+    },
+    {
+      "Thumbnail": "places/2023-06-04_09_36_32_DSC_9530.jpg"
     },
    ]
 },

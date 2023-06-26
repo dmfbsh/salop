@@ -588,6 +588,18 @@ The brass plaque is in the church at Great Wollaston.
 The mansion was built in the mid- to late 15th Century AD, and remodelled in circa 1604 AD for John Lloyd (or Llwyd in Welsh) as a home and shop area at the bottom.
 ![](../1shropshire/assets/images/history/2019-06-01_14_45_04_DSC_4508.jpg)
 
+# Name: Daniels Mill, Bridgnorth
+- Date: late-15th Century AD
+
+The earliest reference to the mill and its surrounding land appears around the late 15th Century, when it was known as Donynges or Dunnings Mill.  The property was originally part of the Pitchford estate of the Ottley family, who owned much of the land in Bridgnorth and surrounding parishes.  The mill remained in the hands of the Pitchford estate until the 18th Century.  In the early centuries the mill was probably worked by an itinerant journeyman miller – someone who would visit the mill only when there was work to be done.
+
+The mill has been enlarged and altered several times.  The earliest known resident millers, the Crowther family, enlarged the mill and likely built proper living accommodation at that time, though the mill could have also been enlarged prior to their involvement.  It is likely the first enlargement would have taken place around the early 17th Century, when land was obtained to construct the upper pool.
+
+The present wheel was originally cast at Coalbrookdale in 1854, installed around the middle of the 19th Century and replaced an earlier wheel on the same site.  Documents show that as early as 1843 a steam engine had been purchased to work in conjunction with the present wheel.
+
+The mill has the largest cast iron waterwheel in England, spanning a 38 feet (12 m) diameter.
+![](../1shropshire/assets/images/history/2023-06-24_14_25_12_DSC_0060.jpg)
+
 # Header: 1485 AD
 
 ## Start of the Tudor Age (and end of the Middle Ages / Medieval England)
@@ -710,6 +722,12 @@ The build of the Moreton Corbet manor was influenced by the classical architectu
 
 ## Start of the Stuart Age
 
+# Name: SE & A Ridley Ltd Seeds, Bridgnorth
+- Date: 1616 AD
+
+S E & A Ridley Ltd is established in 1616 (the year of Shakespeare's death) and is the oldest firm of seedsmen in Great Britain.  The former Ridley Seed Merchants building on Mill Street, Bridgnorth, dates back to 1675.
+![](../1shropshire/assets/images/history/2023-06-24_14_40_07_DSC_0066.jpg)
+
 # Name: The Reader's House, Ludlow
 - Date: 1616 AD
 
@@ -830,6 +848,12 @@ Abraham Darby I successfully produces pig iron in a blast furnace fuelled by cok
 
 Built for Abraham Darby I, the house looks out over the Upper Furnace Pool whose outflow powered his blast furnace.
 ![](../1shropshire/assets/images/history/2022-04-19_11_02_22_DSC_1157.jpg)
+
+# Name: Thomas Bowdler School, Shrewsbury
+- Date: 1724 AD
+
+This building was built as a school.  It has the inscription 'Founded by Thomas Bowdler 1724'.  This is probably the same Thomas Bowdler who was Mayor of Shrewsbury in 1705.  His job at that time is listed as a Draper.
+![](../1shropshire/assets/images/history/2023-06-04_09_43_01_DSC_9531.jpg)
 
 # Name: Clive of India Born
 - Date: 1725 AD
@@ -1672,3 +1696,9 @@ The Queen's Platinum Jubilee was celebrated across the county and the country.  
 
 The Manchester Bee visits Shrewsbury.
 ![](../1shropshire/assets/images/history/2022-11-06_11_00_27_DSC_5257.jpg)
+
+# Name: Coronation of King Charles III
+- Date: 6th May 2023
+
+The County of Shropshire, along with the rest of the UK, celebrated the Coronation of King Charles III.
+![](../1shropshire/assets/images/history/2023-06-04_08_25_07_DSC_9382.jpg)

@@ -1,5 +1,20 @@
 # 2023
 
+## Name: Daniels Mill, Bridgnorth
+
+TBD
+![](../1shropshire/assets/images/other/2023-06-24_14_19_15_DSC_0041-Edit-001.jpg)
+
+## Name: Daniels Mill, Bridgnorth
+
+TBD
+![](../1shropshire/assets/images/other/2023-06-24_14_13_05_DSC_0032-Edit-001.jpg)
+
+## Name: Daniels Mill, Bridgnorth
+
+TBD
+![](../1shropshire/assets/images/other/2023-06-24_14_11_44_DSC_0029-Edit-001.jpg)
+
 ## Name: Snailbeach Lead Mine
 
 TBD
