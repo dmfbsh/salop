@@ -1,5 +1,12 @@
 ---
 ---
+## 15 Jul 2023
+Added the following items:
+
+- Alveley church
+- Ruyton-XI-Towns castle
+- Ruyton-XI-Towns church
+
 ## 26 Jun 2023
 Added the following items:
 

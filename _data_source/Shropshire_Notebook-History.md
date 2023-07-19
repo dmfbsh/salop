@@ -336,6 +336,12 @@ Born probably between 610 and 620, Winefride resolved to dedicate her life to Go
 In Shrewsbury, the abbey church was ready for consecration by 1130 but did not have any holy relics and the monks were envious of the many said to be in Wales.  The monks of Shrewsbury began negotiations to obtain the relics of St Winefride for their abbey.  With the consent of the Bishop of Bangor Herebert, the Abbot of Shrewsbury dispatched Prior Robert and another monk called Richard to Wales to obtain St Winefride's relics.  The relics of St Winefride were finally translated to the Abbey on 19th September 1138.  The shrine of Saint Winefride in Shrewsbury Abbey became a popular place of pilgrimage.  The shrine of Saint Winefride at Shrewsbury was destroyed in the reformation.  A fragment possibly of the shrine or of a reredos was recorded by the Rev. Blakeway in the early nineteenth century.
 ![](../1shropshire/assets/images/history/2022-11-05_11_41_45_DSC_5085.jpg)
 
+# Name: Ruyton-XI-Towns Castle
+- Date: 1148 AD
+
+Lying in the Welsh Marches, Ruyton Castle was built in circa 1148 and was destroyed in 1202 by the Welsh.  It was rebuilt by 1313 but was destroyed again by Owain Glyndŵr during his rising against England beginning in 1400.  Some of the stone from the castle was used in the construction of the church, the ruins of the castle stand in the parish churchyard.
+![](../1shropshire/assets/images/history/2023-07-14_14_31_56_DSC_0200-Edit-001.jpg)
+
 # Name: Lilleshall Abbey
 - Date: 1145-1148 AD
 
