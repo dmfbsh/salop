@@ -1,5 +1,10 @@
 ---
 ---
+## 28 Jul 2023
+Added the following items:
+
+- Humphrey Kynaston
+
 ## 15 Jul 2023
 Added the following items:
 
