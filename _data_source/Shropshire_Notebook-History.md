@@ -466,6 +466,14 @@ The last Walter Hopton died during the Wars of the Roses in the 15th century and
 This cottage is thought to be the oldest still-standing cruck cottage in England (and one of the oldest still-standing cruck cottages in Europe).  The Historic England listing suggests that the cottage dates from the 15th or 16th Century (and building does appear to have been remodelled in the 15th century), but dendrochronological tests on the crucks in the cottage have dated the timber to 1269.
 ![](../1shropshire/assets/images/history/2020-03-01_15_34_46_DSC_6681.jpg)
 
+# Name: Death of Prince of Wales, Shrewsbury
+- Date: 3rd October 1283 AD
+
+Dafydd ap Gruffydd was the last native Prince of Wales before the conquest of Wales by Edward I in 1283.
+
+On 30 September 1283, Dafydd ap Gruffudd, Prince of Wales, was condemned to death, the first person known to have been tried and executed for what from that time onwards would be described as high treason against the King. Edward ensured that Dafydd's death was slow and agonising, and also historic; he became the first prominent person in recorded history to have been hanged, drawn and quartered.  Dafydd was dragged through the streets of Shrewsbury attached to a horse's tail, then hanged alive, revived, then disembowelled and his entrails burned before him for ‘his sacrilege in committing his crimes in the week of Christ's passion’, and then his body cut into four-quarters ‘for plotting the king's death’.  Geoffrey of Shrewsbury was paid 20 shillings for carrying out the gruesome act on 3 October 1283.
+![](../1shropshire/assets/images/history/2023-07-30_09_53_00_DSC_0527.jpg)
+
 # Name: Acton Burnell Castle
 - Date: 1284 AD
 

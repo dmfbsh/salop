@@ -1,5 +1,10 @@
 ---
 ---
+## 06 Aug 2023
+Added the following items:
+
+- Death of Prince of Wales
+
 ## 28 Jul 2023
 Added the following items:
 
