@@ -1,5 +1,15 @@
 ---
 ---
+## 08 Sep 2023
+Added the following items:
+
+- Caynham church
+
+Updated Great Ness church
+
+## 20 Aug 2023
+Updated Stoke St Milborough church
+
 ## 06 Aug 2023
 Added the following items:
 
