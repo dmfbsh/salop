@@ -356,6 +356,12 @@ The Abbey was closed in 1538, as part of the Suppression of the Monasteries.  Th
 During the Civil War, the former Abbey buildings were severely damaged by Parliamentarian troops, at which point the site was abandoned and left to decay.
 ![](../1shropshire/assets/images/history/2022-07-09_11_18_38_DSC_3307_HDR.jpg)
 
+# Name: Wombridge Priory
+- Date: early-12th Century AD
+
+Wombridge Priory was a small Augustinian monastery,. established in the early 12th century, it was supported by a network of minor nobility and was never a large community.  Despite generally good financial management, it fell within the scope of the Suppression of Religious Houses Act 1535 and was dissolved in the following year.
+![](../1shropshire/assets/images/history/2023-10-15_07_41_44_DSC_1161.jpg)
+
 # Name: Malinslee Chapel
 - Date: circa 1150 AD
 
@@ -1422,6 +1428,12 @@ He was one of the leading poets of the First World War.
 The arms of the council were awarded in 1895 (the arms are derived from the arms of the county town, Shrewsbury).  
 ![](../1shropshire/assets/images/history/Arms_of_Shropshire_County_Council.png)
 
+# Name: Hoffman Kiln, Llanymynech
+- Date: 1899 AD
+
+The Hoffman Kiln at Llanymynech was built in 1899 and was used for the continual burining of lime until 1914.  Next to the kiln is a 42.5metre chimney.  The kiln is one of only three remaining Hoffman Kilns in the country.
+![](../1shropshire/assets/images/history/2023-09-04_11_34_28_DSC_0818.jpg)
+
 # Name: Dinham Bridge, Ludlow
 - Date: 19th Century AD
 
@@ -1600,6 +1612,14 @@ The new town of Telford is established.
 
 Austin began breeding roses in the early 1950s attempting to combine the characteristics of Old Roses and Hybrid Teas.  The first commercial specimen - Rosa Constance Spry - was created in 1961.  After that Austin went on to create over 200 new cultivars.
 ![](../1shropshire/assets/images/history/2021-09-18_14_19_29_DSC_0393.jpg)
+
+# Name: Radio Telescope, Knockin
+- Date: 9th July 1976 AD
+
+The radio telescope at Knockin is part of the Multi-Element Radio Linked Interferometer Network (MERLIN) run from the Jodrell Bank Observatory.
+
+The construction of the new telescope started on 9 July 1976, and was completed by 8 October 1976.  The telescope was first controlled remotely from Jodrell in January 1977.  The microwave links were installed in May 1978.  The first observations using the system – measurements of 30 distant radio sources – were taken in January and February 1980.
+![](../1shropshire/assets/images/history/2023-10-14_13_52_54_DSC_1067-Edit-001.jpg)
 
 # Name: Cosford RAF Museum
 - Date: 1979 AD

@@ -11,12 +11,58 @@ By the thirteenth century Whytchurch had developed into a small market town with
 },
 {
   "Type": "Item",
+  "Title": "Dodington",
+  "LatLong": "",
+  "Description": "TBD",
+  "Thumbnails": [
+    {
+      "Thumbnail": "places/2023-09-23_13_48_39_DSC_0957.jpg"
+    },
+    {
+      "Thumbnail": "places/2023-09-23_13_51_32_DSC_0959.jpg"
+    },
+    {
+      "Thumbnail": "places/2023-09-23_13_55_02_DSC_0960.jpg"
+    },
+    {
+      "Thumbnail": "places/2023-09-23_13_57_00_DSC_0963.jpg"
+    },
+    {
+      "Thumbnail": "places/2023-09-23_13_59_06_DSC_0966.jpg"
+    },
+   ]
+},
+{
+  "Type": "Item",
   "Title": "High Street",
   "LatLong": "52.969547, -2.684206",
   "Description": "The High Street.",
   "Thumbnails": [
     {
       "Thumbnail": "places/2019-10-12_14_39_35_DSC_5384.jpg"
+    },
+    {
+      "Thumbnail": "places/2023-09-23_14_28_57_DSC_0970.jpg"
+    },
+    {
+      "Thumbnail": "places/2023-09-23_14_35_17_DSC_0982.jpg"
+    },
+    {
+      "Thumbnail": "places/2023-09-23_14_39_16_DSC_0987.jpg"
+    },
+    {
+      "Thumbnail": "places/2023-09-23_14_45_54_DSC_0998.jpg"
+    },
+   ]
+},
+{
+  "Type": "Item",
+  "Title": "Old School House",
+  "LatLong": "",
+  "Description": "The old School House built in 1708 in Bargates, with the former grammar school behind it.",
+  "Thumbnails": [
+    {
+      "Thumbnail": "places/2023-09-23_13_34_32_DSC_0954-Edit-001.jpg"
     },
    ]
 },
@@ -30,6 +76,17 @@ This clock in the centre of the town was made by J B Joyce and installed in 1994
   "Thumbnails": [
     {
       "Thumbnail": "places/2019-10-12_13_40_14_DSC_5383.jpg"
+    },
+   ]
+},
+{
+  "Type": "Item",
+  "Title": "Watergate",
+  "LatLong": "",
+  "Description": "TBD",
+  "Thumbnails": [
+    {
+      "Thumbnail": "places/2023-09-23_14_03_05_DSC_0968.jpg"
     },
    ]
 }

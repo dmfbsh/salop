@@ -1,9 +1,32 @@
 ---
 ---
-## 08 Sep 2023
+## 17 Oct 2023
+Added the following items:
+
+- Peplow church
+- Knockin radio telescope
+- Wombridge priory
+- Wombridge church
+- Hadley church
+- Ketley church
+- Oakengates church
+- Priorslee church
+- Great Bolas church
+- Whitchurch x 11
+- Badger church
+
+## 20 Sep 2023
+
+Updated Stirchley church
+
+Updated Prees church
+
+## 10 Sep 2023
 Added the following items:
 
 - Caynham church
+- Hoffman Kiln, Llanymynech
+- Berrington church
 
 Updated Great Ness church
 
