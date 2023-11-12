@@ -1,10 +1,44 @@
----
-layout: shropshire-bs
-title: Churches of Shropshire - Grade
----
+<!DOCTYPE html>
+<html>
 
-{% include 1-header-bs.html %}
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>Shropshire</title>
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/Footer-Basic.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
+    <link rel="stylesheet" href="assets/css/Navigation-Clean.css">
+    <link rel="stylesheet" href="assets/css/styles.css">
+</head>
 
+<body style="background: var(--gray-dark);">
+<nav class="navbar navbar-light navbar-expand-md sticky-top navigation-clean" style="background: var(--gray-dark);">
+    <div class="container"><button data-toggle="collapse" class="navbar-toggler" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
+        <div class="collapse navbar-collapse" id="navcol-1">
+            <ul class="nav navbar-nav ml-auto">
+                <li class="nav-item"></li>
+                <li class="nav-item"><a class="nav-link" href="1-index.html">Shropshire</a></li>
+                <li class="nav-item"><a class="nav-link" href="1-recent.html">Latest</a></li>
+                <li class="nav-item"><a class="nav-link" href="1-history.html">History</a></li>
+                <li class="nav-item dropdown"><a class="dropdown-toggle nav-link" data-toggle="dropdown" aria-expanded="false">Churches</a>
+                    <div class="dropdown-menu"><a class="dropdown-item" href="1-churches-all.html">Churches Summary</a><a class="dropdown-item" href="1-churches-lichfield.html">Lichfield Diocese</a><a class="dropdown-item" href="1-churches-hereford.html">Hereford Diocese</a><a class="dropdown-item" href="1-churches-grade.html">Listing (HE)</a><a class="dropdown-item" href="1-churches-saint.html">Dedication</a></div>
+                </li>
+                <li class="nav-item"><a class="nav-link" href="1-landscape.html">Landscape</a></li>
+                <li class="nav-item"><a class="nav-link" href="1-castles.html">Castles</a></li>
+                <li class="nav-item"><a class="nav-link" href="1-houses.html">Houses</a></li>
+                <li class="nav-item"><a class="nav-link" href="1-people.html">People</a></li>
+                <li class="nav-item"><a class="nav-link" href="1-folklore.html">Folklore</a></li>
+                <li class="nav-item dropdown"><a class="dropdown-toggle nav-link" data-toggle="dropdown" aria-expanded="false">Places</a>
+                    <div class="dropdown-menu"><a class="dropdown-item" href="1-places-bridgnorth.html">Bridgnorth</a><a class="dropdown-item" href="1-places-ludlow.html">Ludlow</a><a class="dropdown-item" href="1-places-oswestry.html">Oswestry</a><a class="dropdown-item" href="1-places-shrewsbury.html">Shrewsbury</a><a class="dropdown-item" href="1-places-telford.html">Telford</a><a class="dropdown-item" href="1-places-whitchurch.html">Whitchurch</a></div>
+                </li>
+                <li class="nav-item"><a class="nav-link" href="1-gardens.html">Gardens</a></li>
+                <li class="nav-item"><a class="nav-link" href="1-other.html">Other</a></li>
+            </ul>
+        </div>
+        <h1 style="color: rgb(170,170,170);">Churches of Shropshire - Grade</h1>
+    </div>
+</nav>
 <div>
 <div class="container">
 <div class="row">
@@ -24,44 +58,1521 @@ title: Churches of Shropshire - Grade
 </div>
 </div>
 </div>
-
-{% assign numrecs = 0 %}
-
-{% for item in site.data.Shropshire_Notebook-Churches_Grade %}
-
-  <h2>Grade: {{ item.Grade }}</h2>
-  {% assign orientation = "right" %}
-
-  {% for church in item.Churches %}
-  {% assign numrecs = numrecs | plus: 1 %}
-  {% if orientation == "left" %}
-    {% assign orientation = "right" %}
-<div class="col-md-6">
-<h3>{{ church.Church }}</h3>
-<img class="imgc" src="assets/images/churches/{{ church.Photo }}">
-</div>
-</div>
-</div>
-</div>
-  {% else %}
-    {% assign orientation = "left" %}
+<h2>Grade: I</h2>
 <div>
 <div class="container">
 <div class="row" data-aos="fade-up" data-aos-duration="500">
 <div class="col-md-6">
-<h3>{{ church.Church }}</h3>
-<img class="imgc" src="assets/images/churches/{{ church.Photo }}">
+<h3>Acton Burnell - St Mary</h3>
+<img class="imgc" src="assets/images/churches/2021-10-29_15_51_44_DSC03255.jpg">
 </div>
-  {% endif %}
-  {% endfor %}
-  {% if orientation == "left" %}
-  <div class="col-md-6">
-  </div>
-  </div>
-  </div>
-  </div>
-  {% endif %}
-  
-{% endfor %}
+<div class="col-md-6">
+<h3>Adderley - St Peter</h3>
+<img class="imgc" src="assets/images/churches/2021-05-16_12_16_30_DSC_9494.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Atcham - St Eata</h3>
+<img class="imgc" src="assets/images/churches/2020-01-12_15_47_21_DSC_6211.jpg">
+</div>
+<div class="col-md-6">
+<h3>Barrow - St Giles</h3>
+<img class="imgc" src="assets/images/churches/2021-10-01_15_33_15_DSC_0471.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Batchcott Richards Castle - All Saints</h3>
+<img class="imgc" src="assets/images/churches/2021-09-17_12_47_16_DSC_0349.jpg">
+</div>
+<div class="col-md-6">
+<h3>Berrington - All Saints</h3>
+<img class="imgc" src="assets/images/churches/2023-09-09_13_57_19_DSC_0878.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Bromfield - St Mary the Virgin</h3>
+<img class="imgc" src="assets/images/churches/2020-11-14_14_38_42_DSC_9041.jpg">
+</div>
+<div class="col-md-6">
+<h3>Buildwas - Abbey</h3>
+<img class="imgc" src="assets/images/churches/2019-08-25_11_13_57_DSC_4829.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Burford - St Mary</h3>
+<img class="imgc" src="assets/images/churches/2019-08-26_15_36_44_DSC_4915.jpg">
+</div>
+<div class="col-md-6">
+<h3>Cardington - St James</h3>
+<img class="imgc" src="assets/images/churches/2020-02-08_13_22_42_DSC_6401.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Chelmarsh - St Peter</h3>
+<img class="imgc" src="assets/images/churches/2020-05-30_12_45_31_DSC_7207.jpg">
+</div>
+<div class="col-md-6">
+<h3>Chirbury - St Michael the Archangel</h3>
+<img class="imgc" src="assets/images/churches/2020-03-14_14_09_50_DSC_6783.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Church Stretton - St Laurence</h3>
+<img class="imgc" src="assets/images/churches/2020-02-08_15_27_44_DSC_6496.jpg">
+</div>
+<div class="col-md-6">
+<h3>Claverley - All Saints</h3>
+<img class="imgc" src="assets/images/churches/2020-05-30_11_09_24_DSC_7181.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Cleobury Mortimer - St Mary</h3>
+<img class="imgc" src="assets/images/churches/2022-05-14_13_08_53_DSC_1616.jpg">
+</div>
+<div class="col-md-6">
+<h3>Cound - St Peter</h3>
+<img class="imgc" src="assets/images/churches/2020-08-31_13_22_23_DSC_8233.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Eaton-under-Heywood - St Edith</h3>
+<img class="imgc" src="assets/images/churches/2022-04-23_15_12_49_DSC_1218.jpg">
+</div>
+<div class="col-md-6">
+<h3>Edgmond - St Peter</h3>
+<img class="imgc" src="assets/images/churches/2021-04-06_14_05_31_DSC_9377.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Edstaston - St Mary</h3>
+<img class="imgc" src="assets/images/churches/2021-04-24_15_14_44_DSC_9484.jpg">
+</div>
+<div class="col-md-6">
+<h3>Ellesmere - St Mary</h3>
+<img class="imgc" src="assets/images/churches/2019-09-18_12_13_46_DSC_5044.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Great Ness - St Andrew</h3>
+<img class="imgc" src="assets/images/churches/2023-08-26_13_35_59_DSC_0776.jpg">
+</div>
+<div class="col-md-6">
+<h3>Heath - Chapel</h3>
+<img class="imgc" src="assets/images/churches/2022-10-14_14_50_34_DSC_4766.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>High Ercall - St Michael</h3>
+<img class="imgc" src="assets/images/churches/2020-11-07_14_27_52_DSC_8983.jpg">
+</div>
+<div class="col-md-6">
+<h3>Hodnet - St Luke</h3>
+<img class="imgc" src="assets/images/churches/2019-03-02_15_39_58_DSC_3481.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Holdgate - Holy Trinity</h3>
+<img class="imgc" src="assets/images/churches/2021-07-16_13_38_24_DSC_9726.jpg">
+</div>
+<div class="col-md-6">
+<h3>Hope Bagot - St John the Baptist</h3>
+<img class="imgc" src="assets/images/churches/2019-04-19_14_22_49_DSC_4113.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Hughley - St John the Baptist</h3>
+<img class="imgc" src="assets/images/churches/2021-06-05_14_46_03_DSC_9568.jpg">
+</div>
+<div class="col-md-6">
+<h3>Langley - Chapel</h3>
+<img class="imgc" src="assets/images/churches/2020-09-11_17_04_37_DSC_8492.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Lilleshall - St Michael and All Angels</h3>
+<img class="imgc" src="assets/images/churches/2022-03-06_12_31_11_DSC_0385.jpg">
+</div>
+<div class="col-md-6">
+<h3>Linley - St Leonard</h3>
+<img class="imgc" src="assets/images/churches/2022-11-11_15_12_58_DSC_5307.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Llanyblodwel - St Michael the Archangel</h3>
+<img class="imgc" src="assets/images/churches/2019-08-03_11_19_00_DSC_4692.jpg">
+</div>
+<div class="col-md-6">
+<h3>Longnor - St Mary</h3>
+<img class="imgc" src="assets/images/churches/2020-09-13_16_03_30_DSC_8567.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Loppington - St Michael and All Angels</h3>
+<img class="imgc" src="assets/images/churches/2021-07-17_13_11_42_DSC_9756.jpg">
+</div>
+<div class="col-md-6">
+<h3>Ludlow - St Laurence</h3>
+<img class="imgc" src="assets/images/churches/2019-04-13_14_29_26_DSC_4059.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Melverley - St Peter</h3>
+<img class="imgc" src="assets/images/churches/2019-06-01_11_14_24_DSC_4420.jpg">
+</div>
+<div class="col-md-6">
+<h3>Moreton Corbet - St Bartholomew</h3>
+<img class="imgc" src="assets/images/churches/2018-09-29_15_40_02_DSC_2922.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Morville - St Gregory</h3>
+<img class="imgc" src="assets/images/churches/2019-07-12_14_56_05_DSC_4601.jpg">
+</div>
+<div class="col-md-6">
+<h3>Much Wenlock - Holy Trinity</h3>
+<img class="imgc" src="assets/images/churches/2019-08-23_14_52_22_DSC_4757.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Munslow - St Michael</h3>
+<img class="imgc" src="assets/images/churches/2019-09-28_13_26_29_DSC_0050.jpg">
+</div>
+<div class="col-md-6">
+<h3>Pitchford - St Michael and All Angels</h3>
+<img class="imgc" src="assets/images/churches/2019-06-19_16_04_01_DSC_4544.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Selattyn - St Mary</h3>
+<img class="imgc" src="assets/images/churches/2020-06-20_14_33_42_DSC_7305.jpg">
+</div>
+<div class="col-md-6">
+<h3>Shawbury - St Mary</h3>
+<img class="imgc" src="assets/images/churches/2021-09-04_13_56_44_DSC_0311.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Shifnal - St Andrew</h3>
+<img class="imgc" src="assets/images/churches/2022-03-26_10_51_44_DSC_0748.jpg">
+</div>
+<div class="col-md-6">
+<h3>Shrewsbury - Abbey</h3>
+<img class="imgc" src="assets/images/churches/2020-01-01_12_31_36_DSC_6057.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Shrewsbury - St Chad (new)</h3>
+<img class="imgc" src="assets/images/churches/2019-03-31_12_22_39_DSC_3829.jpg">
+</div>
+<div class="col-md-6">
+<h3>Shrewsbury - St Mary the Virgin</h3>
+<img class="imgc" src="assets/images/churches/2022-03-12_10_55_25_DSC_0434.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Stanton Lacy - St Peter</h3>
+<img class="imgc" src="assets/images/churches/2020-11-21_15_24_10_DSC_9087.jpg">
+</div>
+<div class="col-md-6">
+<h3>Stanton-upon-Hine Heath - St Andrew</h3>
+<img class="imgc" src="assets/images/churches/2022-03-20_15_52_54_DSC_0659.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Stirchley - St James</h3>
+<img class="imgc" src="assets/images/churches/2022-11-12_13_00_31_DSC_5324.jpg">
+</div>
+<div class="col-md-6">
+<h3>Stokesay - St John the Baptist</h3>
+<img class="imgc" src="assets/images/churches/2019-08-23_12_50_01_DSC_4716.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Tong - St Bartholomew</h3>
+<img class="imgc" src="assets/images/churches/2019-09-01_13_55_12_DSC_5019.jpg">
+</div>
+<div class="col-md-6">
+<h3>Upton Cressett - St Michael</h3>
+<img class="imgc" src="assets/images/churches/2019-02-02_12_34_34_DSC_3159.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Whitchurch - St Alkmund</h3>
+<img class="imgc" src="assets/images/churches/2019-02-09_14_13_23_DSC_3263.jpg">
+</div>
+<div class="col-md-6">
+<h3>Worthen - All Saints</h3>
+<img class="imgc" src="assets/images/churches/2022-10-15_14_21_08_DSC_4806.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Wrockwardine - St Peter</h3>
+<img class="imgc" src="assets/images/churches/2020-03-01_16_09_46_DSC_6695.jpg">
+</div>
+<div class="col-md-6">
+<h3>Wroxeter - St Andrew</h3>
+<img class="imgc" src="assets/images/churches/2021-12-29_14_38_44_DSC_0777.jpg">
+</div>
+</div>
+</div>
+</div>
+<h2>Grade: II</h2>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Badger - St Giles</h3>
+<img class="imgc" src="assets/images/churches/2023-10-07_13_59_43_DSC_1001.jpg">
+</div>
+<div class="col-md-6">
+<h3>Betton Strange - St Margaret</h3>
+<img class="imgc" src="assets/images/churches/2019-09-21_12_02_47_DSC_5090.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Bicton - Holy Trinity</h3>
+<img class="imgc" src="assets/images/churches/2020-12-05_14_57_07_DSC_9194.jpg">
+</div>
+<div class="col-md-6">
+<h3>Buildwas - Holy Trinity</h3>
+<img class="imgc" src="assets/images/churches/2020-07-19_15_28_15_DSC_7461.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Cardeston - St Michael</h3>
+<img class="imgc" src="assets/images/churches/2020-07-11_12_51_11_DSC_7384.jpg">
+</div>
+<div class="col-md-6">
+<h3>Church Aston - St Andrew</h3>
+<img class="imgc" src="assets/images/churches/2021-06-20_15_40_50_DSC02777.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Cockshutt - St Simon and St Jude</h3>
+<img class="imgc" src="assets/images/churches/2019-09-18_14_53_43_DSC_5075.jpg">
+</div>
+<div class="col-md-6">
+<h3>Cressage - Christ Church</h3>
+<img class="imgc" src="assets/images/churches/2021-04-05_15_23_06_DSC_9290.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Dawley - Holy Trinity</h3>
+<img class="imgc" src="assets/images/churches/2022-11-12_13_38_24_DSC_5345.jpg">
+</div>
+<div class="col-md-6">
+<h3>Dorrington - St Edward</h3>
+<img class="imgc" src="assets/images/churches/2020-08-01_16_04_46_DSC_7772.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Easthope - St Peter</h3>
+<img class="imgc" src="assets/images/churches/2022-08-06_14_37_48_DSC_3708.jpg">
+</div>
+<div class="col-md-6">
+<h3>Eaton Constantine - St Mary</h3>
+<img class="imgc" src="assets/images/churches/2021-04-05_16_14_43_DSC_9314.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Ford - St Michael</h3>
+<img class="imgc" src="assets/images/churches/2021-07-02_15_54_57_DSC02802.jpg">
+</div>
+<div class="col-md-6">
+<h3>Frodesley - St Mark</h3>
+<img class="imgc" src="assets/images/churches/2021-10-29_16_09_57_DSC03271.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Glazeley - St Bartholomew</h3>
+<img class="imgc" src="assets/images/churches/2022-09-17_13_42_30_DSC_4159.jpg">
+</div>
+<div class="col-md-6">
+<h3>Great Wollaston - St John</h3>
+<img class="imgc" src="assets/images/churches/2021-04-17_13_51_07_DSC_9415.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Grinshill - All Saints</h3>
+<img class="imgc" src="assets/images/churches/2021-08-20_14_10_59_DSC_9956.jpg">
+</div>
+<div class="col-md-6">
+<h3>Habberley - St Mary</h3>
+<img class="imgc" src="assets/images/churches/2023-05-13_13_15_17_DSC_9144.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Halford - St Thomas</h3>
+<img class="imgc" src="assets/images/churches/2020-05-16_14_20_44_DSC_7073.jpg">
+</div>
+<div class="col-md-6">
+<h3>Harley - St Mary</h3>
+<img class="imgc" src="assets/images/churches/2022-09-04_14_14_04_DSC_4061.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Hope Bowdler - St Andrew</h3>
+<img class="imgc" src="assets/images/churches/2020-05-16_15_58_18_DSC_7086.jpg">
+</div>
+<div class="col-md-6">
+<h3>Ironbridge - St Luke</h3>
+<img class="imgc" src="assets/images/churches/2022-02-19_15_44_12_DSC_0207.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Jackfield - St Mary</h3>
+<img class="imgc" src="assets/images/churches/2022-06-26_08_06_54_DSC_2826.jpg">
+</div>
+<div class="col-md-6">
+<h3>Kemberton - St Andrew and St John the Baptist</h3>
+<img class="imgc" src="assets/images/churches/2023-04-28_14_26_53_DSC_8676.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Ketley - St Mary the Virgin</h3>
+<img class="imgc" src="assets/images/churches/2023-10-15_08_50_03_DSC_1189_HDR.jpg">
+</div>
+<div class="col-md-6">
+<h3>Knowbury - St Paul</h3>
+<img class="imgc" src="assets/images/churches/2019-04-19_14_12_06_DSC_4111.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Lawley - St John the Evangelist</h3>
+<img class="imgc" src="assets/images/churches/2021-07-18_07_40_26_DSC_9813.jpg">
+</div>
+<div class="col-md-6">
+<h3>Leaton - Holy Trinity</h3>
+<img class="imgc" src="assets/images/churches/2023-06-18_15_32_58_DSC03748.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Little Stretton - All Saints</h3>
+<img class="imgc" src="assets/images/churches/2019-03-29_16_54_07_DSC_3761.jpg">
+</div>
+<div class="col-md-6">
+<h3>Longden - St Ruthen</h3>
+<img class="imgc" src="assets/images/churches/2019-08-31_15_51_47_DSC_4974.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Longdon on Tern - St Bartholomew</h3>
+<img class="imgc" src="assets/images/churches/2020-03-01_16_27_11_DSC_6708.jpg">
+</div>
+<div class="col-md-6">
+<h3>Myddle - St Peter</h3>
+<img class="imgc" src="assets/images/churches/2022-08-28_14_46_55_DSC_3997.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Newtown - King Charles the Martyr</h3>
+<img class="imgc" src="assets/images/churches/2020-10-09_17_07_48_DSC_8826.jpg">
+</div>
+<div class="col-md-6">
+<h3>Oakengates - Holy Trinity</h3>
+<img class="imgc" src="assets/images/churches/2023-10-15_09_32_57_DSC_1261.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Oswestry - Holy Trinity</h3>
+<img class="imgc" src="assets/images/churches/2022-10-03_14_34_42_DSC_4600.jpg">
+</div>
+<div class="col-md-6">
+<h3>Peplow - Chapel of the Epiphany</h3>
+<img class="imgc" src="assets/images/churches/2023-10-16_14_23_13_DSC_1307.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Preston-upon-the-Weald Moors - St Lawrence</h3>
+<img class="imgc" src="assets/images/churches/2020-07-12_14_00_27_DSC_7399.jpg">
+</div>
+<div class="col-md-6">
+<h3>Priorslee - St Peter</h3>
+<img class="imgc" src="assets/images/churches/2023-10-15_10_18_51_DSC_1288_HDR.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Ratlinghope - St Margaret</h3>
+<img class="imgc" src="assets/images/churches/2019-05-06_15_49_10_DSC_4232.jpg">
+</div>
+<div class="col-md-6">
+<h3>Rodington - St George</h3>
+<img class="imgc" src="assets/images/churches/2021-04-10_15_27_07_DSC_9411.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Ruyton XI Towns - St John the Baptist</h3>
+<img class="imgc" src="assets/images/churches/2023-07-14_14_34_17_DSC_0204-Edit-001.jpg">
+</div>
+<div class="col-md-6">
+<h3>Ryton - St Andrew</h3>
+<img class="imgc" src="assets/images/churches/2023-04-01_14_31_23_DSC_8199_PE.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Shelve - All Saints</h3>
+<img class="imgc" src="assets/images/churches/2021-03-29_13_32_55_DSC_9236.jpg">
+</div>
+<div class="col-md-6">
+<h3>Shrewsbury - All Saints</h3>
+<img class="imgc" src="assets/images/churches/2022-11-20_10_11_38_DSC_5411.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Shrewsbury - Congregational Church</h3>
+<img class="imgc" src="assets/images/churches/2018-11-02_14_08_55_DSC_2945.jpg">
+</div>
+<div class="col-md-6">
+<h3>Shrewsbury - St George</h3>
+<img class="imgc" src="assets/images/churches/2022-10-16_09_40_56_DSC_4995_HDR.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Shrewsbury - St Michael</h3>
+<img class="imgc" src="assets/images/churches/2023-02-05_09_18_07_DSC_7482.jpg">
+</div>
+<div class="col-md-6">
+<h3>Smethcott - St Michael and All Angels</h3>
+<img class="imgc" src="assets/images/churches/2019-02-23_12_50_01_DSC_3417.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>St Georges - St George</h3>
+<img class="imgc" src="assets/images/churches/2022-02-05_10_53_10_DSC_0090.jpg">
+</div>
+<div class="col-md-6">
+<h3>Stoke on Tern - St Peter</h3>
+<img class="imgc" src="assets/images/churches/2020-02-23_15_09_35_DSC_6521.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Tasley - St Peter and St Paul</h3>
+<img class="imgc" src="assets/images/churches/2022-08-27_15_41_03_DSC_3940.jpg">
+</div>
+<div class="col-md-6">
+<h3>Tibberton - All Saints</h3>
+<img class="imgc" src="assets/images/churches/2020-08-07_15_21_42_DSC_7934.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Tilstock - Christ Church</h3>
+<img class="imgc" src="assets/images/churches/2021-10-22_13_40_36_DSC_0631.jpg">
+</div>
+<div class="col-md-6">
+<h3>Uffington - Holy Trinity</h3>
+<img class="imgc" src="assets/images/churches/2022-07-03_15_39_28_DSC_3112_HDR.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Waters Upton - St Michael</h3>
+<img class="imgc" src="assets/images/churches/2022-03-20_07_57_16_DSC_0647.jpg">
+</div>
+<div class="col-md-6">
+<h3>Wellington - Christ Church</h3>
+<img class="imgc" src="assets/images/churches/2020-09-06_10_42_41_DSC_8308.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Welshampton - St Michael and All Angels</h3>
+<img class="imgc" src="assets/images/churches/2019-07-21_13_20_12_DSC_4685.jpg">
+</div>
+<div class="col-md-6">
+<h3>Weston-under-Redcastle - St Luke</h3>
+<img class="imgc" src="assets/images/churches/2021-10-10_15_55_54_DSC03114.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Whittington - St John the Baptist</h3>
+<img class="imgc" src="assets/images/churches/2020-06-20_13_20_00_DSC_7266.jpg">
+</div>
+<div class="col-md-6">
+<h3>Withington - St John the Baptist</h3>
+<img class="imgc" src="assets/images/churches/2021-04-10_15_00_07_DSC_9399.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Yockleton - Holy Trinity</h3>
+<img class="imgc" src="assets/images/churches/2020-03-14_12_31_55_DSC_6763.jpg">
+</div>
+<div class="col-md-6">
+</div>
+</div>
+</div>
+</div>
+<h2>Grade: II*</h2>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Acton Scott - St Margaret</h3>
+<img class="imgc" src="assets/images/churches/2019-07-13_09_49_33_DSC_4604.jpg">
+</div>
+<div class="col-md-6">
+<h3>Alberbury - St Michael</h3>
+<img class="imgc" src="assets/images/churches/2021-04-17_14_50_05_DSC_9432.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Alveley - St Mary the Virgin</h3>
+<img class="imgc" src="assets/images/churches/2023-07-02_13_55_07_DSC_0153_HDR.jpg">
+</div>
+<div class="col-md-6">
+<h3>Ashford Bowdler - St Andrew</h3>
+<img class="imgc" src="assets/images/churches/2022-07-23_14_18_02_DSC_3551.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Ashford Carbonell - St Mary</h3>
+<img class="imgc" src="assets/images/churches/2022-07-04_15_19_37_DSC_3247_HDR.jpg">
+</div>
+<div class="col-md-6">
+<h3>Astley - St Mary</h3>
+<img class="imgc" src="assets/images/churches/2021-05-29_13_16_03_DSC_9536.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Astley Abbots - St Calixtus</h3>
+<img class="imgc" src="assets/images/churches/2022-10-08_14_38_43_DSC_4653.jpg">
+</div>
+<div class="col-md-6">
+<h3>Aston Eyre - no known dedication</h3>
+<img class="imgc" src="assets/images/churches/2022-08-06_13_21_33_DSC_3617.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Baschurch - All Saints</h3>
+<img class="imgc" src="assets/images/churches/2020-09-25_13_47_17_DSC_8752.jpg">
+</div>
+<div class="col-md-6">
+<h3>Battlefield - St Mary Magdalene</h3>
+<img class="imgc" src="assets/images/churches/2020-06-07_15_00_50_DSC_7256.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Beckbury - St Milburga</h3>
+<img class="imgc" src="assets/images/churches/2020-02-01_13_03_53_DSC_6332.jpg">
+</div>
+<div class="col-md-6">
+<h3>Benthall - St Bartholomew</h3>
+<img class="imgc" src="assets/images/churches/2020-12-31_13_15_37_DSC_9209.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Billingsley - St Mary</h3>
+<img class="imgc" src="assets/images/churches/2022-09-17_14_15_36_DSC_4190.jpg">
+</div>
+<div class="col-md-6">
+<h3>Bishops Castle - St John the Baptist</h3>
+<img class="imgc" src="assets/images/churches/2021-08-13_13_43_59_DSC_9922.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Bitterley - St Mary</h3>
+<img class="imgc" src="assets/images/churches/2022-07-10_15_19_27_DSC_3452.jpg">
+</div>
+<div class="col-md-6">
+<h3>Bourton - Holy Trinity</h3>
+<img class="imgc" src="assets/images/churches/2021-07-16_12_43_48_DSC_9707.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Bridgnorth - St Leonard</h3>
+<img class="imgc" src="assets/images/churches/2019-09-21_14_42_09_DSC_5092.jpg">
+</div>
+<div class="col-md-6">
+<h3>Bridgnorth - St Mary Magdalene</h3>
+<img class="imgc" src="assets/images/churches/2022-05-20_15_34_14_DSC_1828_HDR.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Broseley - All Saints</h3>
+<img class="imgc" src="assets/images/churches/2020-09-20_15_53_14_DSC_8658.jpg">
+</div>
+<div class="col-md-6">
+<h3>Caynham - St Mary</h3>
+<img class="imgc" src="assets/images/churches/2023-08-25_14_42_15_DSC_0767.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Cheswardine - St Swithin</h3>
+<img class="imgc" src="assets/images/churches/2022-07-16_14_29_43_DSC_3460.jpg">
+</div>
+<div class="col-md-6">
+<h3>Childs Ercall - St Michael</h3>
+<img class="imgc" src="assets/images/churches/2021-09-24_13_28_29_DSC_0404.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Church Preen - St John the Baptist</h3>
+<img class="imgc" src="assets/images/churches/2021-06-05_15_03_17_DSC02655.jpg">
+</div>
+<div class="col-md-6">
+<h3>Church Pulverbatch - St Edith</h3>
+<img class="imgc" src="assets/images/churches/2020-06-27_14_02_09_DSC_7346.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Clee St Margaret - St Margaret</h3>
+<img class="imgc" src="assets/images/churches/2020-07-17_13_44_05_DSC_7415.jpg">
+</div>
+<div class="col-md-6">
+<h3>Clive - All Saints</h3>
+<img class="imgc" src="assets/images/churches/2021-08-20_14_32_07_DSC_9962.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Clungunford - St Cuthbert</h3>
+<img class="imgc" src="assets/images/churches/2022-07-29_14_50_19_DSC_3604.jpg">
+</div>
+<div class="col-md-6">
+<h3>Coalbrookdale - Holy Trinity</h3>
+<img class="imgc" src="assets/images/churches/2022-06-07_10_59_59_DSC_2565.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Condover - St Andrew and St Mary</h3>
+<img class="imgc" src="assets/images/churches/2020-10-17_14_27_14_DSC_8903.jpg">
+</div>
+<div class="col-md-6">
+<h3>Culmington - All Saints</h3>
+<img class="imgc" src="assets/images/churches/2022-05-21_12_55_42_DSC_1996-Edit-001_HDR.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Diddlebury - St Peter</h3>
+<img class="imgc" src="assets/images/churches/2019-12-14_12_48_44_DSC_5971.jpg">
+</div>
+<div class="col-md-6">
+<h3>Eyton-upon-the-Weald Moors - St Catherine</h3>
+<img class="imgc" src="assets/images/churches/2020-05-01_17_12_12_DSC_6980.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Great Bolas - St John the Baptist</h3>
+<img class="imgc" src="assets/images/churches/2023-10-16_15_31_19_DSC_1337.jpg">
+</div>
+<div class="col-md-6">
+<h3>Hadnall - St Mary Magdalene</h3>
+<img class="imgc" src="assets/images/churches/2020-08-15_16_29_29_DSC_8137.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Ightfield - St John the Baptist</h3>
+<img class="imgc" src="assets/images/churches/2019-12-21_14_42_27_DSC_6010.jpg">
+</div>
+<div class="col-md-6">
+<h3>Kenley - St John the Baptist</h3>
+<img class="imgc" src="assets/images/churches/2020-12-21_14_58_16_IMG_6346.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Kinnerley - St Mary</h3>
+<img class="imgc" src="assets/images/churches/2020-01-18_12_17_51_DSC_6238.jpg">
+</div>
+<div class="col-md-6">
+<h3>Kynnersley - St Chad</h3>
+<img class="imgc" src="assets/images/churches/2020-08-07_14_27_49_DSC_7905.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Lee Brockhurst - St Peter</h3>
+<img class="imgc" src="assets/images/churches/2020-10-09_15_52_26_DSC_8773.jpg">
+</div>
+<div class="col-md-6">
+<h3>Leebotwood - St Mary</h3>
+<img class="imgc" src="assets/images/churches/2022-11-25_15_33_57_DSC_5650_HDR.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Little Wenlock - St Lawrence</h3>
+<img class="imgc" src="assets/images/churches/2021-07-18_07_21_42_DSC_9798.jpg">
+</div>
+<div class="col-md-6">
+<h3>Longford - Talbot Chapel</h3>
+<img class="imgc" src="assets/images/churches/2020-08-15_13_43_09_DSC_8018.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Ludford - St Giles</h3>
+<img class="imgc" src="assets/images/churches/2021-09-17_13_11_41_DSC_0352.jpg">
+</div>
+<div class="col-md-6">
+<h3>Lydham - Holy Trinity</h3>
+<img class="imgc" src="assets/images/churches/2020-01-25_15_13_18_DSC_6295.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Madeley - St Michael</h3>
+<img class="imgc" src="assets/images/churches/2022-08-07_11_14_48_DSC_3789.jpg">
+</div>
+<div class="col-md-6">
+<h3>Malinslee - St Leonard</h3>
+<img class="imgc" src="assets/images/churches/2022-11-12_12_34_56_DSC_5320.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Market Drayton - St Mary</h3>
+<img class="imgc" src="assets/images/churches/2021-09-24_14_58_34_DSC_0425.jpg">
+</div>
+<div class="col-md-6">
+<h3>Meole Brace - Holy Trinity</h3>
+<img class="imgc" src="assets/images/churches/2021-01-02_15_31_04_DSC_9214.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Milson - St George</h3>
+<img class="imgc" src="assets/images/churches/2023-05-12_14_19_05_DSC_8925.jpg">
+</div>
+<div class="col-md-6">
+<h3>Minsterley - Holy Trinity</h3>
+<img class="imgc" src="assets/images/churches/2021-12-04_16_00_58_DSC03332.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Monkhopton - St Peter</h3>
+<img class="imgc" src="assets/images/churches/2022-08-06_14_16_08_DSC_3702.jpg">
+</div>
+<div class="col-md-6">
+<h3>Montford - St Chad</h3>
+<img class="imgc" src="assets/images/churches/2022-05-08_11_26_09_DSC_1395.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>More - St Peter</h3>
+<img class="imgc" src="assets/images/churches/2021-08-13_12_46_11_DSC_9861.jpg">
+</div>
+<div class="col-md-6">
+<h3>Myndtown - St John the Baptist</h3>
+<img class="imgc" src="assets/images/churches/2020-03-21_14_08_42_DSC_6901.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Newport - St Nicholas</h3>
+<img class="imgc" src="assets/images/churches/2022-03-19_12_52_08_DSC_0550.jpg">
+</div>
+<div class="col-md-6">
+<h3>Norbury - All Saints</h3>
+<img class="imgc" src="assets/images/churches/2020-09-19_14_39_21_DSC_8644.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Norton-in-Hales - St Chad</h3>
+<img class="imgc" src="assets/images/churches/2021-06-12_10_41_58_DSC_9623.jpg">
+</div>
+<div class="col-md-6">
+<h3>Onibury - St Michael</h3>
+<img class="imgc" src="assets/images/churches/2020-11-29_14_43_07_DSC_9145.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Oswestry - St Oswald</h3>
+<img class="imgc" src="assets/images/churches/2019-06-01_14_35_20_DSC_4491.jpg">
+</div>
+<div class="col-md-6">
+<h3>Petton - St Raphael and St Isidore</h3>
+<img class="imgc" src="assets/images/churches/2017-07-02_15_23_25_DSC01248.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Pontesbury - St George</h3>
+<img class="imgc" src="assets/images/churches/2021-05-28_15_00_13_DSC_9522.jpg">
+</div>
+<div class="col-md-6">
+<h3>Prees - St Chad</h3>
+<img class="imgc" src="assets/images/churches/2019-03-24_12_31_37_DSC_3619.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Preston Gubbals - St Martin</h3>
+<img class="imgc" src="assets/images/churches/2020-08-15_15_19_55_DSC_8073.jpg">
+</div>
+<div class="col-md-6">
+<h3>Quatford - St Mary Magdalene</h3>
+<img class="imgc" src="assets/images/churches/2022-06-11_14_21_58_DSC_2610.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Sheinton - St Peter and St Paul</h3>
+<img class="imgc" src="assets/images/churches/2021-05-31_15_59_05_DSC02643.jpg">
+</div>
+<div class="col-md-6">
+<h3>Shipton - St James</h3>
+<img class="imgc" src="assets/images/churches/2019-02-02_11_01_56_DSC_3120.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Shrewsbury - St Alkmund</h3>
+<img class="imgc" src="assets/images/churches/2018-07-14_12_53_39_DSC_2794.jpg">
+</div>
+<div class="col-md-6">
+<h3>Shrewsbury - St Chad (old)</h3>
+<img class="imgc" src="assets/images/churches/2019-03-31_12_31_38_DSC_3838.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Shrewsbury - St Giles</h3>
+<img class="imgc" src="assets/images/churches/2022-11-20_09_14_20_DSC_5358.jpg">
+</div>
+<div class="col-md-6">
+<h3>Shrewsbury - St Julian</h3>
+<img class="imgc" src="assets/images/churches/2019-10-04_13_26_29_DSC_0039.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Stanton Long - St Michael</h3>
+<img class="imgc" src="assets/images/churches/2021-07-16_13_27_28_DSC_9723.jpg">
+</div>
+<div class="col-md-6">
+<h3>Stapleton - St John the Baptist</h3>
+<img class="imgc" src="assets/images/churches/2020-06-27_13_14_46_DSC_7327.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Stockton - St Chad</h3>
+<img class="imgc" src="assets/images/churches/2021-04-18_15_35_41_DSC02491.jpg">
+</div>
+<div class="col-md-6">
+<h3>Stoke St Milborough - St Milburgh</h3>
+<img class="imgc" src="assets/images/churches/2020-07-17_14_32_13_DSC_7438.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Sutton Maddock - St Mary</h3>
+<img class="imgc" src="assets/images/churches/2022-03-05_15_07_10_DSC_0317.jpg">
+</div>
+<div class="col-md-6">
+<h3>Tugford - St Catherine</h3>
+<img class="imgc" src="assets/images/churches/2022-10-14_14_03_25_DSC_4716.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Upton Magna - St Lucy</h3>
+<img class="imgc" src="assets/images/churches/2020-03-01_15_22_17_DSC_6668.jpg">
+</div>
+<div class="col-md-6">
+<h3>Wellington - All Saints</h3>
+<img class="imgc" src="assets/images/churches/2020-07-26_17_00_10_DSC_7577.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Wem - St Peter and St Paul</h3>
+<img class="imgc" src="assets/images/churches/2023-06-12_14_42_58_DSC03732.jpg">
+</div>
+<div class="col-md-6">
+<h3>Wentnor - St Michael and All Angels</h3>
+<img class="imgc" src="assets/images/churches/2020-09-19_14_04_19_DSC_8624.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Westbury - St Mary</h3>
+<img class="imgc" src="assets/images/churches/2020-08-22_13_35_52_DSC_8170.jpg">
+</div>
+<div class="col-md-6">
+<h3>Wistanstow - Holy Trinity</h3>
+<img class="imgc" src="assets/images/churches/2023-04-06_14_35_19_DSC_8259.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Worfield - St Peter</h3>
+<img class="imgc" src="assets/images/churches/2023-01-14_16_40_17_DSC_7325.jpg">
+</div>
+<div class="col-md-6">
+</div>
+</div>
+</div>
+</div>
+<h2>Grade: Not Listed</h2>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>All Stretton - St Michael</h3>
+<img class="imgc" src="assets/images/churches/2023-04-11_14_22_42_DSC_8625.jpg">
+</div>
+<div class="col-md-6">
+<h3>Crudgington - St Mary</h3>
+<img class="imgc" src="assets/images/churches/2020-02-02_11_58_18_DSC_6336.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Hadley - Holy Trinity</h3>
+<img class="imgc" src="assets/images/churches/2023-10-15_08_13_49_DSC_1174.jpg">
+</div>
+<div class="col-md-6">
+<h3>Ludlow - St John</h3>
+<img class="imgc" src="assets/images/churches/2019-07-13_13_17_24_DSC_4630.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Ryton - St Thomas</h3>
+<img class="imgc" src="assets/images/churches/2020-09-13_15_22_48_DSC_8513.jpg">
+</div>
+<div class="col-md-6">
+<h3>Shrewsbury - Holy Trinity</h3>
+<img class="imgc" src="assets/images/churches/2022-11-06_09_08_14_DSC_5121_HDR.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Snailbeach - St Luke</h3>
+<img class="imgc" src="assets/images/churches/2019-05-06_11_23_46_DSC_4151.jpg">
+</div>
+<div class="col-md-6">
+<h3>Wombridge - St Mary and St Leonard</h3>
+<img class="imgc" src="assets/images/churches/2023-10-15_07_47_55_DSC_1172_HDR.jpg">
+</div>
+</div>
+</div>
+</div>
+<h2>Grade: Scheduled Monument</h2>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Haughmond - Abbey</h3>
+<img class="imgc" src="assets/images/churches/2019-03-24_15_50_39_DSC_3644.jpg">
+</div>
+<div class="col-md-6">
+<h3>Lilleshall - Abbey</h3>
+<img class="imgc" src="assets/images/churches/2022-07-09_11_18_38_DSC_3307_HDR.jpg">
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row" data-aos="fade-up" data-aos-duration="500">
+<div class="col-md-6">
+<h3>Much Wenlock - Priory</h3>
+<img class="imgc" src="assets/images/churches/2009-08-15_12-53-13_00007766.jpg">
+</div>
+<div class="col-md-6">
+</div>
+</div>
+</div>
+</div>
+<div class="footer-basic" style="background: var(--gray-dark);">
+    <p style="text-align: center;color: rgb(170,170,170);">Number of Items: 211</p>
+    <footer>
+        <ul class="list-inline">
+            <li class="list-inline-item"><a href="../index.html" style="color: rgb(170,170,170);">Home</a></li>
+            
+            <li class="list-inline-item"><a href="1-references.html" style="color: rgb(170,170,170);">References</a></li>
+            <li class="list-inline-item"><a href="1-updates.html" style="color: rgb(170,170,170);">Updates</a></li>
+            <li class="list-inline-item"><a href="1-about.html" style="color: rgb(170,170,170);">About</a></li>
+        </ul>
+        <p class="copyright">Generated: 2023-11-12 09:14:25</p>
+    </footer>
+</div>
 
-{% include 1-footer-bs.html %}
+<script src="assets/js/jquery.min.js"></script>
+<script src="assets/bootstrap/js/bootstrap.min.js"></script>
+<script src="assets/js/bs-init.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+</body>
+
+</html>
