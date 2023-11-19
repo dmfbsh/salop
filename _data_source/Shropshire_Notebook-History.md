@@ -1081,6 +1081,12 @@ Built by Thomas Telford, the cast iron aqueduct was designed to carry the Shrews
 
 Opened just a month after the first cast iron aqueduct on the Derby Canal.
 
+# Guillotine Lock, Hadley
+- 1796 AD
+![](../1shropshire/assets/images/history/2023-11-19_12_12_39_DSC_1480.jpg)
+
+One of the seven guillotine locks that ran along the Shrewsbury Canal.  The locks were designed with guillotine gates that were raised up and down rather than swinging open and closed conventionally.  Guillotine locks are relatively uncommon, and this one is particularly early and rare due to its timber rather than iron construction.  The Shrewsbury Canal was begun in 1793 by Joseph Clowes.  Clowes died in 1795 and was replaced by Thomas Telford as chief engineer.  The canal was completed in 1796.
+
 # Ditherington Flax Mill, Shrewsbury
 - 1797 AD
 ![](../1shropshire/assets/images/history/2018-10-06_14_13_56_DSC01944.jpg)
@@ -1701,6 +1707,12 @@ The new town of Telford celebrates its 50th anniversary.
 ![](../1shropshire/assets/images/history/2018-01-07_12_50_46_IMG_4715.jpg)
 
 Local residents are invited to view the works being undertaken.
+
+# Harold Whitfield VC, Oswestry
+- 8th May 2028
+![](../1shropshire/assets/images/history/2023-10-14_15_28_40_DSC_1160.jpg)
+
+The stone tablet in honour of Victoria Cross winner Harold Edward Whitfield was unveiled on 8th May, 2018 as part of the British Governments initiative to commemorate the centtenary of WW1 by honouring all WW1 Victoria Cross winners in the towns of their birth. The tablet is engraved with the emblem of the Victoria Cross.
 
 # Bridge Restoration, Ironbridge
 - December 2018 AD
