@@ -1,5 +1,16 @@
 ---
 ---
+## 20 Jan 2024
+Added the following items:
+
+- Ironbridge x 2
+
+## 15 Dec 2023
+Updated Little Stretton church.
+
+## 10 Dec 2023
+Updated Longon on Tern church
+
 ## 19 Nov 2023
 Added the following items:
 
