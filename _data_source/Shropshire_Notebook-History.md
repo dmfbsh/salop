@@ -1043,6 +1043,14 @@ A new design for the bridge was put forward in 1921, the intention being to wide
 
 From around 1775 to 1799, at Caughley near Broseley, Ambrose Gallimore and Thomas Turner produced some of the finest soft-paste porcelain made in England in the 18th Century.  Many shapes and patterns were produced, in the main useful wares: tea services, dinner services, and everyday objects that would be used in the households of the then-emerging middle classes.  The porcelain was decorated largely in underglaze blue, although enamel colours and gilding were also used.  Today, Caughley porcelain is highly collectable and much sought after.
 
+# The Dingle, Badger
+- 1780s and 1790s AD
+![](../1shropshire/assets/images/history/2024-03-24_08_21_56_DSC_2452.jpg)
+
+Badger Dingle was created by Isaac Hawkins Browne in the 1780s and ‘90s.  He constructed a new mansion, Badger Hall (demolished 1950s), to the designs of James Wyatt whilst at the same time employing William Emes, and probably his associate John Webb, to create a pleasure ground.  Lakes were created in the valley bottom and a circuit walk took visitors through the ‘ornamented cultivated side’ of the valley, which looked across to the ‘purely sylvan’ scene of the opposite bank.  An early account describes a picturesque scene of  alpine planting and colourful shrubs.
+
+Throughout the century it was open to tourists, but by 1890 public days were restricted and visitors had to apply in advance to the then owner, Col. Capel Cure.  Soon after visitors were banned; their habit of digging up flowers and ferns was no longer to be tolerated and Badger Dingle was closed to the public ‘on account of the ravages of depredators’.
+
 # The Iron Bridge, Ironbridge
 - 1781 AD
 ![](../1shropshire/assets/images/history/2009-04-19_17-41-55_00006342.jpg)

@@ -1,5 +1,13 @@
 ---
 ---
+## 06 May 2024
+Added the following items:
+
+- Shrewsbury x 20
+- Badger Dingle x 2 (history and other)
+- Ludlow x 33
+- The Sharpstones x 8
+
 ## 28 Apr 2024
 Added the following items:
 

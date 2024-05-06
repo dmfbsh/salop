@@ -1,5 +1,10 @@
 # 2024
 
+## Name: The Rotunda, Badger Dingle
+
+TBD
+![](../1shropshire/assets/images/other/2024-03-24_08_49_58_DSC_2465.jpg)
+
 ## Name: Ironbridge
 
 The Iron Bridge on New Year's Day.
