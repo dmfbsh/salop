@@ -1,5 +1,23 @@
 ---
 ---
+## 26 May 2024
+Updated Smethcott church.
+
+Updated Glazeley church.
+
+Added the following items:
+
+- Boraston church
+- Nash church
+- RAF Sleap
+
+## 06 May 2024
+Added the following items:
+
+- Haughmond Hill
+- Haughmond Castle
+- Haughmond Quarry
+
 ## 06 May 2024
 Added the following items:
 

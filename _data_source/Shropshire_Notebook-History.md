@@ -1029,6 +1029,12 @@ General Rowland Hill, 1st Viscount Hill, served in the Napoleonic Wars as a trus
 
 The column is the tallest Doric column in England at 133ft 6in, it commemorates Hill with a 17ft statue - the column was built between 1814 an 1816.  Following his death in 1842, Hill bequeathed monies to the person in charge of the column.
 
+# Castle, Haughmond
+- 1774 AD
+![](../1shropshire/assets/images/history/2024-05-05_07_59_20_DSC_2888.jpg)
+
+Sundorne House was the seat of the Corbet family and the estate included the ruin of Haughmond Abbey.  In 1774 John Corbet added a dramatic eye-catcher to the ensemble – a sham castle on the summit of Haughmond Hill.  In the 1930s it collapsed, in 1938 a visitor noted the ‘ruins of Haughmond Castle’ and by 1973 only ‘traces’ remained.
+
 # English Bridge, Shrewsbury
 - 1774 AD
 ![](../1shropshire/assets/images/history/2018-11-02_14_16_26_DSC_2950.jpg)
@@ -1625,6 +1631,20 @@ Opened originally as a joint aircraft maintenance, storage and technical trainin
 ![](../1shropshire/assets/images/history/2022-05-14_09_38_51_DSC_1483_HDR.jpg)
 
 In September 1941 a radar station was set up on Titterstone Clee (RAF Clee Hill), which housed 40-50 personnel.  Initially, the crew lived in huts on the hill, but from 1956 the crew were allowed to board in Ludlow due to the cold conditions in winter.  The station was closed in 1957, and was then reactivated in 1964 by the CAA.  The larger of the radar arrays is now part of the NATS radar network.  The smaller of the two is a Met Office weather radar station.
+
+# RAF Sleap
+- 1942 AD
+![](../1shropshire/assets/images/history/2024-05-18_15_41_19_DSC_3075.jpg)
+
+Sleap Airfield was built in 1942 on land belonging to Lower Houlston Farm, as a satellite airfield to RAF Tilstock.  It was a training ground for bomber crews flying Whitley bombers.
+
+As the crews were inexperienced and night flying had to be practiced, several serious accidents occurred, leading to injuries and fatalities among the crews and on the ground.  On at least two occasions planes hit the control tower, killing crew members and also W.A.A.F.s and other personel working in the tower.  At one time a whole squadron of American Flying Fortresses landed there when poor visibility made it impossible for them to reach their home base.
+
+Later in the war crews were trained to fly Whitley bombers towing Horsa gliders ready for the D-Day invasion.
+
+Around the perimeter track can be found a ruined building where rear turret training was performed, apparently the only one of it’s kind in the country.
+
+The airfield closed at the end of the war, but was reopened shortly after and used by RAF Shawbury until 1968.
 
 # Morris Lubricants Clock, Shrewsbury
 - 1946 AD

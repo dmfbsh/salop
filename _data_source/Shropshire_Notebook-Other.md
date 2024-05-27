@@ -1,5 +1,10 @@
 # 2024
 
+## Name: Quarry, Haughmond
+
+TBD
+![](../1shropshire/assets/images/other/2024-05-05_09_28_42_DSC_2897.jpg)
+
 ## Name: The Rotunda, Badger Dingle
 
 TBD
