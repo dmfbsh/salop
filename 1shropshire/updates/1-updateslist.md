@@ -1,5 +1,18 @@
 ---
 ---
+## 21 Jul 2024
+Added the following items:
+
+- Moreton Say church
+- Woolstaston church
+- Shrewsbury x 25
+- Leighton church
+
+## 09 Jun 2024
+Added the following items:
+
+- Shrewsbury x 5
+
 ## 26 May 2024
 Updated Smethcott church.
 
