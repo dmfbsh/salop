@@ -1,6 +1,10 @@
 ---
 ---
+## 18 Aug 2024
+Updated Wentnor church.
+
 ## 21 Jul 2024
+
 Added the following items:
 
 - Moreton Say church
