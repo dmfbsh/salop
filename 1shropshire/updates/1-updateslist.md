@@ -1,5 +1,12 @@
 ---
 ---
+## 23 Aug 2024
+
+Added the following items:
+
+- Shrewsbury x 5
+- Shrewsbury x 31
+
 ## 18 Aug 2024
 Updated Wentnor church.
 
