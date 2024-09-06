@@ -1,11 +1,25 @@
 ---
 ---
-## 23 Aug 2024
+## 02 Sep 2024
+Added the following items:
+
+- Bridgnorth (East Castle Street) x 3
+- Highley church
+- Quatt church
+
+## 26 Aug 2024
 
 Added the following items:
 
 - Shrewsbury x 5
+
 - Shrewsbury x 31
+
+- Rowton church
+
+- Bridgnorth - Richard Baxter House
+
+Updated Bridgnorth church.
 
 ## 18 Aug 2024
 Updated Wentnor church.

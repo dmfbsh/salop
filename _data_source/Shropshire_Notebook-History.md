@@ -826,6 +826,16 @@ Built by Rees Jones, a successful attorney in the town, who had frequently appea
 
 The facade is decorated with Ostrich feathers which represented the Royalist support of the town for the Prince of Wales (who later became Charles I).  During the English Civil War the town remained loyal to the King and it is thought that Royalist Soldiers lodged at The Feathers during this time.
 
+# Richard Baxter
+- 1641 AD
+![](../1shropshire/assets/images/history/2024-08-23_15_18_08_DSC_0463.jpg)
+
+During the time he lived in Bridgnorth, Richard Baxter was a minister, having been ordained by the then Bishop of Worcester.
+
+Baxter remained at Bridgnorth for nearly two years, during which time he took a special interest in the controversy relating to Nonconformity and the Church of England.  He soon became alienated from the Church on several matters.
+
+Following the Act of Uniformity 1662, Baxter refused an appointment as Bishop of Hereford and was expelled from the Church of England.  He became one of the most influential leaders of the Nonconformist movement, spending time in prison.
+
 # 1642 AD to 1651 AD 
 
 ## The English Civil War
