@@ -1,5 +1,10 @@
 ---
 ---
+## 22 Sep 2024
+Added the following items:
+
+- Kinlet church
+
 ## 02 Sep 2024
 Added the following items:
 
