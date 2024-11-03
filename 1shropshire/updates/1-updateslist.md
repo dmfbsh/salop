@@ -1,5 +1,13 @@
 ---
 ---
+## 02 Nov 2024
+Added the following items:
+
+- White Ladies Priory
+- Boningale church
+- Donington church
+- Bridgnorth x 2
+
 ## 22 Sep 2024
 Added the following items:
 

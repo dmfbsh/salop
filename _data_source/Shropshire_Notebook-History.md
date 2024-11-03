@@ -426,7 +426,7 @@ The chapel had become a ruin by the 18th Century, probably before 1786, when Rev
 
 # White Ladies Priory
 - 1186 AD
-![](../1shropshire/assets/images/history/photo-needed.jpg)
+![](../1shropshire/assets/images/history/2024-10-27_09_02_13_DSC_0815.jpg)
 
 A priory of Augustinian canonesses who wore habits of undyed cloth.
 
