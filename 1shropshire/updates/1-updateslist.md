@@ -8,6 +8,7 @@ Added the following items:
 - Donington church
 - Bridgnorth x 2
 - Shrewsbury - St John church
+- Albrighton church
 
 ## 22 Sep 2024
 Added the following items:
