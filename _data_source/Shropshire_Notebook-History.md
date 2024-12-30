@@ -991,6 +991,12 @@ The Bedlam Furnaces were built by the Madeley Wood Furnace Company between 1757 
 
 ## The Industrial Revolution
 
+# Lincoln Hill Limekiln
+- 1760 AD
+![](../1shropshire/assets/images/history/2024-12-29_11_14_24_DSC_1059.jpg)
+
+There were vast deposits of limestone on Lincoln Hill.  The kiln was operational from 1760 to 1870.
+
 # John Wesley First Sermon, 1 Fish St
 - March 16th 1761 AD
 ![](../1shropshire/assets/images/history/2022-11-06_10_02_34_DSC_5187.jpg)
