@@ -1347,6 +1347,13 @@ Built by Daniel Rowland using the designs of Samuel Pountney Smith of Shrewsbury
 
 Holy Cross is the name of the local parish, and Shrewsbury's Abbey church, which is just opposite these buildings and is the local parish church.
 
+# Ornithological Collection, Eyton upon the Weald Moors Hall
+- Mid-19th Century AD
+![](../1shropshire/assets/images/history/2025-02-16_14_40_58_DSC_1194.jpg)
+
+There has been a manor at Eyton since before the time of the Domesday Book.  In the early 19th Century the house consisted of a simple three storey block.  This earlier building was considerably altered and added to in the mid-19th Century, with a colonnade and balcony, a central pedimented doorway, 2 canted bow wings, and a symmetrical stuccoed south-eastern facade.  The present house thus dates principally from the Georgian/Regency era.  In the 19th Century, it was the home of Thomas Campbell Eyton, a well-known ornithologist, author and friend of Charles Darwin.  Eyton assembled one of the largest ornithological collections in the country (described as "one of the finest in Europe") and added a galleried museum wing to house it (which was demolished in the 1960s).  Eyton also established extensive pleasure gardens with woodland walks and ponds and introduced notable specimen trees.  Eyton's daughter, Charlotte Eyton, was an amateur geologist, who wrote on the geology of the Wrekin.
+
+
 # Coalbrookdale Viaduct
 - 1860s AD
 ![](../1shropshire/assets/images/history/2016-05-08_11_31_07_DSC_0010.jpg)

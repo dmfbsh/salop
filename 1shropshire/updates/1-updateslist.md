@@ -1,5 +1,26 @@
 ---
 ---
+## 06 Apr 2025
+Updated Westbury church.
+
+## 23 Mar 2025
+Added the following items:
+
+- Neen Savage church
+- Neen Sollars church
+
+## 01 Mar 2025
+Updated Lee Brockhurst church.
+
+Updated Meole Brace church.
+
+## 18 Feb 2025
+Updated Eyton church.
+
+Added the following items:
+
+- Eyton upon the Weald Moors Hall
+
 ## 30 Dec 2024
 Added the following items:
 
@@ -32,11 +53,8 @@ Added the following items:
 Added the following items:
 
 - Shrewsbury x 5
-
 - Shrewsbury x 31
-
 - Rowton church
-
 - Bridgnorth - Richard Baxter House
 
 Updated Bridgnorth church.
