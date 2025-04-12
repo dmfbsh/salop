@@ -1,5 +1,10 @@
 ---
 ---
+## 12 Apr 2025
+Added the following items:
+
+- Weston Lullingfields church
+
 ## 06 Apr 2025
 Updated Westbury church.
 
