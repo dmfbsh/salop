@@ -778,6 +778,12 @@ The manor was built for Francis Smallman and remained in the family until 1734 w
 
 Built to replace a timber framed house which had burned down.  The hall was largely rebuilt in the 18th Century, including the rococo interior decor which was created by the designer of the Iron Bridge.
 
+# Boscobel House
+- Circa 1595 AD
+![](../1shropshire/assets/images/history/2025-04-11_13_48_04_DSC_2175.jpg)
+
+Boscobel House was built as a lodge or secondary residence by John Giffard, a landowner whose main residence was at White Ladies Priory.  The earliest part of Boscobel House has been dated by dendrochronology to about 1595.  In about 1624-30 John Giffard added a three-storey wing and by 1632 the house was referred to as ‘the house now called or knowne by the name of Boscobel’. The name derives from the Italian words ‘bosco bello’, meaning ‘the beautiful wood’, for at the time the house was surrounded by dense woodland.
+
 # Old Market Hall, Shrewsbury
 - 1596 AD
 ![](../1shropshire/assets/images/history/2019-03-31_11_29_22_DSC_3771.jpg)
@@ -874,6 +880,12 @@ After three weeks of continued attack on the castle Colonel Lavington took charg
 The original Manor House was built in the mid-17th Century.
 
 The manor was remodelled in 1769 by Thomas Pritchard (the English architect and interior decorator who is best known for his design of the first cast-iron bridge in the world).
+
+# Boscobel, The Royal Oak
+- 6th September 1651 AD
+![](../1shropshire/assets/images/history/2025-04-11_14_00_20_DSC_2183.jpg)
+
+The future King Charles II hides in an oak tree at Boscobel House following defeat at the Battle of Worcester. The original tree was destroyed in the 17th and 18th Centuries by tourists removing parts of it. The present day tree is believed to be a 2 or 3 hundred year-old descendant of the original and is thus known as 'Son of Royal Oak'. This tree was badly damaged in a storm in 2000.
 
 # John Benbow Born
 - 10th March 1653 AD

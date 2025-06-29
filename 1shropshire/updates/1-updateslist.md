@@ -1,9 +1,33 @@
 ---
 ---
+
+## 29 Jun 2025
+Added the following items:
+
+- Middleton-in-Chirbury church
+
+## 18 Jun 2025
+Added the following items:
+
+- Hope church
+
+## 06 Jun 2025
+Updated Shrewsbury St Julian church.
+
+## 31 May 2025
+Updated Shrewsbury St Johns church.
+
+## 25 May 2025
+Added the following items:
+
+- Coreley church
+
 ## 12 Apr 2025
 Added the following items:
 
 - Weston Lullingfields church
+- Boscobel, The Royal Oak
+- Boscobel, House
 
 ## 06 Apr 2025
 Updated Westbury church.
